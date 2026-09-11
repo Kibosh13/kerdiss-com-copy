@@ -37,7 +37,7 @@
       status.style.cssText = 'margin:16px 0 0;font:14px/1.5 Arial,sans-serif;color:inherit';
       form.appendChild(status);
     }
-    status.textContent = 'Отправка через форму пока недоступна. Напишите нам: info@kerdiss.com или WhatsApp +86 15092735209.';
+    status.textContent = 'Отправка через форму пока недоступна. Напишите нам: info@ursar.ru или WhatsApp +7 926 757 79 79.';
   };
   // Some WordPress plugins send AJAX on button clicks before a submit event.
   // Capture the click at window level to stop those handlers as well.

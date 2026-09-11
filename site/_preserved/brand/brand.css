@@ -1,0 +1,11 @@
+/* Preserve the supplied URSAR emblem's proportions in both site headers. */
+#masthead .site-logo-img .custom-logo-link img.custom-logo {
+  width: 64px;
+  max-width: 64px;
+  height: auto;
+}
+.elementor img.wp-image-1195 {
+  width: 128px;
+  max-width: 100%;
+  height: auto;
+}
