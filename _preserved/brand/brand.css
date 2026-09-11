@@ -1,14 +1,10 @@
 /* Preserve the supplied URSAR emblem's proportions in both site headers. */
 #masthead .site-logo-img .custom-logo-link img.custom-logo {
-  width: 128px;
-  max-width: 128px;
+  width: 96px;
+  max-width: 96px;
   height: auto;
 }
 @media (max-width: 921px) {
-  #masthead .site-logo-img .custom-logo-link img.custom-logo {
-    width: 96px;
-    max-width: 96px;
-  }
   #ast-mobile-header .site-branding.ast-site-identity {
     margin-top: 0;
     margin-bottom: 0;
