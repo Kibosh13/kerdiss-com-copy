@@ -25,8 +25,7 @@
     setTimeout(() => observer.disconnect(), 15000);
   }).catch(() => {});
   // Avoid claiming an enquiry was sent when the original WordPress backend is unavailable.
-  document.addEventListener('submit', event => {
-    const form = event.target;
+  const showUnavailable = (form, event) => {
     if (!form.matches('form') || form.matches('.woocommerce-ordering,form[method="get"],form[method="GET"]')) return;
     event.preventDefault();
     event.stopImmediatePropagation();
@@ -39,7 +38,16 @@
       form.appendChild(status);
     }
     status.textContent = 'Отправка через форму пока недоступна. Напишите нам: info@kerdiss.com или WhatsApp +86 15092735209.';
+  };
+  // Some WordPress plugins send AJAX on button clicks before a submit event.
+  // Capture the click at window level to stop those handlers as well.
+  window.addEventListener('click', event => {
+    const button = event.target.closest('button,input[type="submit"],input[type="image"]');
+    if (button && button.form && (button.type === 'submit' || button.type === 'image')) {
+      showUnavailable(button.form, event);
+    }
   }, true);
+  window.addEventListener('submit', event => showUnavailable(event.target, event), true);
 })();
 
 /* Original WooCommerce catalogue orders, preserved without PHP. */
