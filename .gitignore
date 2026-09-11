@@ -17,9 +17,9 @@ venv/
 __pycache__/
 *.py[cod]
 .build/
-dist/
-out/
-build/
+/dist/
+/out/
+/build/
 coverage/
 .cache/
 .next/
