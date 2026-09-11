@@ -1,0 +1,45 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+.openai/
+.sites-runtime/
+# Dependencies and generated output
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.build/
+dist/
+out/
+build/
+coverage/
+.cache/
+.next/
+.nuxt/
+# Databases, dumps, logs and local artifacts
+*.db
+*.sqlite*
+*.sql
+*.log
+logs/
+tmp/
+temp/
+work/
+outputs/
+*.tmp
+*.bak
+*.zip
+*.tar
+*.tar.gz
+.DS_Store
+._*
+.idea/
+.vscode/
