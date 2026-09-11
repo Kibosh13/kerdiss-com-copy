@@ -21,3 +21,22 @@
   max-width: 100%;
   height: auto;
 }
+/* Fit the longest Russian word within its column without splitting letters. */
+.home #content .elementor-element-832f0c0 {
+  container-type: inline-size;
+}
+.home #content .elementor-element-832f0c0 h2 {
+  font-size: min(50px, 8.2cqw);
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+.home #content .elementor-element-e4d21ba {
+  width: 240px;
+  max-width: 100%;
+}
+.home #content .elementor-element-b8d4501 h5 {
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
