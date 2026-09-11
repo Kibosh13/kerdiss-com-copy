@@ -1,0 +1,5567 @@
+{
+  "date": "2026-09-11",
+  "reference_commit": "29727bfc34dd5fdbfe801387fe9e7c4456eb3ab1",
+  "method": "Programmatic text replacement; lossless WebP; original decoded pixels preserved outside text regions. Responsive masks include 2px resampling padding.",
+  "masters": 125,
+  "responsive_variants": 337,
+  "product_pages": [
+    "product/qz-800dl-remote-control-lawn-mower/index.html",
+    "product/vertical-mini-skid-steer-loader/index.html",
+    "product/qz-900dl-remote-control-lawn-mower/index.html",
+    "product/1246/index.html",
+    "product/qz-800b1000b-remote-control-lawn-mower/index.html",
+    "product/seated-mini-skid-steer-loader/index.html",
+    "product/qz-550j-remote-control-lawn-mower/index.html",
+    "product/qz-550b-remote-control-lawn-mower/index.html"
+  ],
+  "exceptions": [
+    "Model and brand names, international certification marks, physical markings in photographs.",
+    "Unreadable fine print at the bottom of the certificate scan (master_id 83) remains original. A higher resolution source is required."
+  ],
+  "files": [
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_02.webp",
+      "master_id": 81,
+      "dimensions": [
+        750,
+        1268
+      ],
+      "sha256": "e7436db1d9120b217c158f54c33c88cce84d6ff93edfeb644fb5fdca3f321cc9",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 587210
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_02-177x300.webp",
+      "master_id": 81,
+      "dimensions": [
+        177,
+        300
+      ],
+      "sha256": "d0fdf68cf289ae43e72d71a6c6f4bf571a6126ef86a8626d171334eca417678e",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 53050
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_02-606x1024.webp",
+      "master_id": 81,
+      "dimensions": [
+        606,
+        1024
+      ],
+      "sha256": "500971ee27f9c775e635515a4fd6aa8d2b66e6f40f99457a57abf96e69e7f16d",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 442554
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_02-600x1014.webp",
+      "master_id": 81,
+      "dimensions": [
+        600,
+        1014
+      ],
+      "sha256": "0613259b384ba1ceea72296c4932fcaca6c950bf79ed35ac60263f3908c12b34",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 428626
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_03.webp",
+      "master_id": 82,
+      "dimensions": [
+        750,
+        575
+      ],
+      "sha256": "f29e6e7d4644dc8d44d586597804e70826472aa5bc1aa9ef557a93be24dcbcc2",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 428838
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_03-600x460.webp",
+      "master_id": 82,
+      "dimensions": [
+        600,
+        460
+      ],
+      "sha256": "521a90b6cb18162e0c602d610960878563fce09034b6fb62ec304eb9fbe24419",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 260656
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_03-300x230.webp",
+      "master_id": 82,
+      "dimensions": [
+        300,
+        230
+      ],
+      "sha256": "eca0107d8d20a104d0c797e4ccc6b0257a38a1c50d32d9af86e4908cd342d3b0",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 75050
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_04.webp",
+      "master_id": 83,
+      "dimensions": [
+        750,
+        1238
+      ],
+      "sha256": "c779c34a7b4f26bc6b4be074ed1c3d63750892fae545739837855cabac5580c8",
+      "text_regions": 23,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 342688
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_04-182x300.webp",
+      "master_id": 83,
+      "dimensions": [
+        182,
+        300
+      ],
+      "sha256": "8633e4e27c63798d380156e98ab60312b56cd4b617c7c1dc91fd5442a549fc49",
+      "text_regions": 23,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 39882
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_04-620x1024.webp",
+      "master_id": 83,
+      "dimensions": [
+        620,
+        1024
+      ],
+      "sha256": "686c8b488a239a6d17d5117b038ca31f00308ebf9cf39e992ed670862894aa53",
+      "text_regions": 23,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 253250
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_04-600x990.webp",
+      "master_id": 83,
+      "dimensions": [
+        600,
+        990
+      ],
+      "sha256": "0d9d98204209248d0e9c4a4105d509e5d445c6c2056a1068c1f5256abbb7373d",
+      "text_regions": 23,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 244104
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_05.webp",
+      "master_id": 84,
+      "dimensions": [
+        750,
+        1076
+      ],
+      "sha256": "06870481d4dc31f2f963aa9c5017402c5019441b4d4527508abb4fbe544d4ced",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 217320
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_05-209x300.webp",
+      "master_id": 84,
+      "dimensions": [
+        209,
+        300
+      ],
+      "sha256": "06263b804c5e568d6f80b02e8a14c57d8fb6e4532948732adce2524781dd1895",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41794
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_05-714x1024.webp",
+      "master_id": 84,
+      "dimensions": [
+        714,
+        1024
+      ],
+      "sha256": "64e474d7017d44ef22116c9ce9e4a2a16f03c73746f769c0c489973d4d6ff1ac",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 236660
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_05-600x861.webp",
+      "master_id": 84,
+      "dimensions": [
+        600,
+        861
+      ],
+      "sha256": "eb9f8180e73f9cfb93d21cebf3f53f9922544ba896d5e6174827c64bd73c1802",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 182716
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_06.webp",
+      "master_id": 85,
+      "dimensions": [
+        750,
+        522
+      ],
+      "sha256": "e6801b30c20795222cb6b732d9dfd0652aa00acc61a42d6e3b350b9831b67b16",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41170
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_06-300x209.webp",
+      "master_id": 85,
+      "dimensions": [
+        300,
+        209
+      ],
+      "sha256": "105732e76886744285d26c00abe18e051ad619f34b15e18ebeffb7e7e4a1478a",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 17630
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_06-600x418.webp",
+      "master_id": 85,
+      "dimensions": [
+        600,
+        418
+      ],
+      "sha256": "c121ca12bded3c5702ca228e9888323a238e4dc21186e6858c4d38f93ca0ea60",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 49852
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_07.webp",
+      "master_id": 86,
+      "dimensions": [
+        750,
+        217
+      ],
+      "sha256": "525619deffed303fbb0d7292dd84ab5f23ee6900f158314d76c18b021078c51c",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 68166
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_07-600x174.webp",
+      "master_id": 86,
+      "dimensions": [
+        600,
+        174
+      ],
+      "sha256": "0d1011e2e0dffb5cdfece12ad185586db75f12ef9ed7e32b222dae95c63a6fa0",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 50496
+    },
+    {
+      "path": "wp-content/uploads/2026/06/元化-启众-1_07-300x87.webp",
+      "master_id": 86,
+      "dimensions": [
+        300,
+        87
+      ],
+      "sha256": "729a503880afe2b50cf4922adb2f792bfcc0b1eadb81ae0a1127979ef8407568",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18854
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_01.webp",
+      "master_id": 87,
+      "dimensions": [
+        750,
+        269
+      ],
+      "sha256": "e5c637d69901805759bc5c8f148a320c3d1b13201ad8a07bd7aad4b47492ba6d",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 53002
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_01-300x108.webp",
+      "master_id": 87,
+      "dimensions": [
+        300,
+        108
+      ],
+      "sha256": "ccc38c193efcd23ff354852867a3d6dcda898cfac60ed35d737426e8c392ddc7",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 23478
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_01-600x215.webp",
+      "master_id": 87,
+      "dimensions": [
+        600,
+        215
+      ],
+      "sha256": "1fa7e5be6f22143f18a5debaee97dee3d97a0f991cba727611f072aed4ac3542",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 64094
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_02.webp",
+      "master_id": 88,
+      "dimensions": [
+        750,
+        597
+      ],
+      "sha256": "df6b799d71439f2add4fe1d31c2d50b5e48b0191889eb698185573199c1d333a",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 577862
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_02-300x239.webp",
+      "master_id": 88,
+      "dimensions": [
+        300,
+        239
+      ],
+      "sha256": "6486f860c19eb705f389dcf7ea91c5af600857691af3bdc08174f12bd26eeb0d",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 105784
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_02-600x478.webp",
+      "master_id": 88,
+      "dimensions": [
+        600,
+        478
+      ],
+      "sha256": "4a691ca5e99e30ccb4dd031841c77f9a2147125ab48184c3e41448016b9b9efb",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 365860
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_03.webp",
+      "master_id": 89,
+      "dimensions": [
+        750,
+        210
+      ],
+      "sha256": "872dd3d29db2508e6bcb48b599303543e1a0229cd4193161980b57dd18c62213",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18624
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_03-300x84.webp",
+      "master_id": 89,
+      "dimensions": [
+        300,
+        84
+      ],
+      "sha256": "705d59be41f2daac6ac49d80c6505f3f9dcc86c246250606928caa551041751a",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10498
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_03-600x168.webp",
+      "master_id": 89,
+      "dimensions": [
+        600,
+        168
+      ],
+      "sha256": "ea72c3a525841b17d59cf9d6ee8a50b84fde811073f8617134b739684b9e6647",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 25958
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_04.webp",
+      "master_id": 90,
+      "dimensions": [
+        750,
+        1971
+      ],
+      "sha256": "ea1cb90698ea2ac6fdb0a5e3412eb7191db575f5b15bb63bbe494afa5c9abd8d",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1122688
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_04-390x1024.webp",
+      "master_id": 90,
+      "dimensions": [
+        390,
+        1024
+      ],
+      "sha256": "08283476eee0e67cb6afa35243b369484afc8b16a69fc15823e67f57a00cf2f8",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 348260
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_04-584x1536.webp",
+      "master_id": 90,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "e796476e132ed4255a28b59e2e94a13f8eb83ae46a86d778a88e43e81d702da7",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 698144
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_04-114x300.webp",
+      "master_id": 90,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "38d474fedfd3a3e2808cd50f6bf91352485fc3c25111c9dfc97ea175a88110f6",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41968
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_04-600x1577.webp",
+      "master_id": 90,
+      "dimensions": [
+        600,
+        1577
+      ],
+      "sha256": "dff450082704ba30316bbaf922b33075b85dba91da4ed7b3a7b2f874314dc675",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 722534
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_05.webp",
+      "master_id": 91,
+      "dimensions": [
+        750,
+        87
+      ],
+      "sha256": "844aa0e48d1749c121c773b8644e95c43d74da55d8d315270b536122cff50a85",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15770
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_05-600x70.webp",
+      "master_id": 91,
+      "dimensions": [
+        600,
+        70
+      ],
+      "sha256": "f3a739d717ddd90fb85324e9ceb7fec14f899af886d0808ac377bd3f75b00ef9",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 14762
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_05-300x35.webp",
+      "master_id": 91,
+      "dimensions": [
+        300,
+        35
+      ],
+      "sha256": "c819888e4678b488bf680e9ab5713a90d91d1aa1639e7511ed5d98c9eef58f34",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7078
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_06.webp",
+      "master_id": 92,
+      "dimensions": [
+        750,
+        107
+      ],
+      "sha256": "057591a94f3e22d295c86dc5de39d02566b4b0e6f9817c61baee3cbac0e1ffdd",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15906
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_06-300x43.webp",
+      "master_id": 92,
+      "dimensions": [
+        300,
+        43
+      ],
+      "sha256": "b710543d60792b74c5c4c61d5698b131962fe50d0f4ccaa827f7e69e182d68e2",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 5312
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_06-600x86.webp",
+      "master_id": 92,
+      "dimensions": [
+        600,
+        86
+      ],
+      "sha256": "55ef37227812dfc096f41e32c2778ec3feb57577e5864413fd365e510fd98199",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15374
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_07.webp",
+      "master_id": 93,
+      "dimensions": [
+        750,
+        1032
+      ],
+      "sha256": "0faae562e639b98e3960bb838d491c12de8db4fa407e6c2a6f10dd6668fcc8a5",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 495296
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_07-744x1024.webp",
+      "master_id": 93,
+      "dimensions": [
+        744,
+        1024
+      ],
+      "sha256": "8d3894024ee4c7db503d25cbc5db74a3d353c9fa1f405fdf4e8bc47bc5223e6a",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 447358
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_07-600x826.webp",
+      "master_id": 93,
+      "dimensions": [
+        600,
+        826
+      ],
+      "sha256": "64e01159af1291c96823931ab6a5f87a07a496a3c05bf299292a798f30298b6c",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 318914
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_07-218x300.webp",
+      "master_id": 93,
+      "dimensions": [
+        218,
+        300
+      ],
+      "sha256": "682ecf31455a1baf0c4570c9ae366fd52b1cbebb12720b00b073513923dcafcc",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 58820
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_08.webp",
+      "master_id": 94,
+      "dimensions": [
+        750,
+        817
+      ],
+      "sha256": "a12a778759aadeaca46c43883332d932a17db5f93b59e346552c552f180b18d3",
+      "text_regions": 36,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 135024
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_08-600x654.webp",
+      "master_id": 94,
+      "dimensions": [
+        600,
+        654
+      ],
+      "sha256": "1a046f597c8a7e055a2ba2453998fc6687717fecc5cbb9756e1c1dc8f6e17fe8",
+      "text_regions": 36,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 128768
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_08-275x300.webp",
+      "master_id": 94,
+      "dimensions": [
+        275,
+        300
+      ],
+      "sha256": "31757df3c61d0c0b9d8b5613161ce0b42366f63933e11d491be3e954a992638c",
+      "text_regions": 36,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 34216
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_09.webp",
+      "master_id": 95,
+      "dimensions": [
+        750,
+        634
+      ],
+      "sha256": "83cdf53ea7c5ce2593a7f495547cef20d391ff66811698e1b1ecc86280a2aff4",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 248942
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_09-600x507.webp",
+      "master_id": 95,
+      "dimensions": [
+        600,
+        507
+      ],
+      "sha256": "694cab27dc1b2fa505a6c258c8d895df39fe4509f6cccbb4a0202794398c5d16",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 164374
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_09-300x254.webp",
+      "master_id": 95,
+      "dimensions": [
+        300,
+        254
+      ],
+      "sha256": "d668ecb8e909f345652ad874c2e32390226f955bfa0036bede7666be5f9295f0",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 54472
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_10.webp",
+      "master_id": 96,
+      "dimensions": [
+        750,
+        230
+      ],
+      "sha256": "0e89239dcd6dcdbc181586a7fcc496cd8a589938e1ba7d9d2567f8e7c6b4504c",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 31712
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_10-600x184.webp",
+      "master_id": 96,
+      "dimensions": [
+        600,
+        184
+      ],
+      "sha256": "432920cdf6769d1b3a58ea79c0b51079500d96355e5fa9dc9818858b20fb0e18",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 31520
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_10-300x92.webp",
+      "master_id": 96,
+      "dimensions": [
+        300,
+        92
+      ],
+      "sha256": "11246369464a19d89957f0213f3c2eb149c3120d63122a38379d41e98afe2e31",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11550
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_11.webp",
+      "master_id": 97,
+      "dimensions": [
+        750,
+        154
+      ],
+      "sha256": "1e1eabf4e79a927b20cafb77575d801712931336d8d7c5a0fb8119e748eb6c90",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41110
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_11-600x123.webp",
+      "master_id": 97,
+      "dimensions": [
+        600,
+        123
+      ],
+      "sha256": "cdc6902cf2512a230c221c4778fdd88c0f53df4395894f79a546f7fefe2a9e0a",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 34576
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_11-300x62.webp",
+      "master_id": 97,
+      "dimensions": [
+        300,
+        62
+      ],
+      "sha256": "5ded40f17cd9207800b25c5184d496f5b1a9a0b3ace6fca2ba5a30b65d515d17",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13616
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_12.webp",
+      "master_id": 98,
+      "dimensions": [
+        750,
+        1051
+      ],
+      "sha256": "81ce93a44fb29799a2d955b378c015b20f82f28a29402d6758543d89707b464e",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 391762
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_12-600x841.webp",
+      "master_id": 98,
+      "dimensions": [
+        600,
+        841
+      ],
+      "sha256": "7a93d92ed4534e6cd4771b28bdd32083f04d855c742d5bddc590a22b24f9367c",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 277838
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_12-731x1024.webp",
+      "master_id": 98,
+      "dimensions": [
+        731,
+        1024
+      ],
+      "sha256": "0efd5a2c275f08deb126cf009feedbe4ebccadc4d67ae1e94f61468096f96138",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 383256
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_12-214x300.webp",
+      "master_id": 98,
+      "dimensions": [
+        214,
+        300
+      ],
+      "sha256": "c30e7d3fdd3986b8b0fd385c573dc96562852089bffed371b89f0845ecf50480",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 57720
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_13.webp",
+      "master_id": 99,
+      "dimensions": [
+        750,
+        997
+      ],
+      "sha256": "db6fbdad214dccb32d72382c21f93bd2e276614bb73ca24b942f128c592e4e3d",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 610172
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_13-226x300.webp",
+      "master_id": 99,
+      "dimensions": [
+        226,
+        300
+      ],
+      "sha256": "d1fe07ee36658cb8001d9f65340e084fb45f9eff6f2ce28537223b6d16e1732f",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 78114
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_13-600x798.webp",
+      "master_id": 99,
+      "dimensions": [
+        600,
+        798
+      ],
+      "sha256": "f937c4a57324ce4a7d54f5f7cc04c3668bee322a4dffa99cf1e9d1013076cfd2",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 402146
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_14.webp",
+      "master_id": 100,
+      "dimensions": [
+        750,
+        1203
+      ],
+      "sha256": "08b5f8e43bf977f76c48521ab743fa2a1e1141f46fed6142b5da279a300ad3fb",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 457284
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_14-600x962.webp",
+      "master_id": 100,
+      "dimensions": [
+        600,
+        962
+      ],
+      "sha256": "9df729b910e8fd8a45700188ec7d1ce3fd6a5f12944bc7c9d8c0048f4978adbc",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 295186
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_14-187x300.webp",
+      "master_id": 100,
+      "dimensions": [
+        187,
+        300
+      ],
+      "sha256": "84dca4ecb2864bc2e44cf75a4d240b9fd9eebb83efcdbfb059e85e320b594697",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43748
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_14-638x1024.webp",
+      "master_id": 100,
+      "dimensions": [
+        638,
+        1024
+      ],
+      "sha256": "b8a24f14f2b7bc9ea3ebdff74d0a14ae5cc8cce1e7deaeab435d21bba7cfc62b",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 328024
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_15.webp",
+      "master_id": 101,
+      "dimensions": [
+        750,
+        91
+      ],
+      "sha256": "5f1951c914ef46f0ad42573f0354982ceb90d34cdb9ff3a5739e41758e884c97",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11880
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_15-300x36.webp",
+      "master_id": 101,
+      "dimensions": [
+        300,
+        36
+      ],
+      "sha256": "c41d81ca63d9f092d9a01595d31ecd2173c117a41225d5ad4e3b8957784a31ff",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 5206
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_15-600x73.webp",
+      "master_id": 101,
+      "dimensions": [
+        600,
+        73
+      ],
+      "sha256": "4c5a2450696549010737237b60ac6be0aee8b1a45017bf96a4909b4c289a6d08",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10880
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_16.webp",
+      "master_id": 102,
+      "dimensions": [
+        750,
+        59
+      ],
+      "sha256": "16b1f997af6a41e39b3cea4827a90f1d8cba13e925706a5c779ec7a114de4caa",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9582
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_16-600x47.webp",
+      "master_id": 102,
+      "dimensions": [
+        600,
+        47
+      ],
+      "sha256": "9fbe0cf0c48c5c65cd7a34d7c7c717227f9a071ddfab1e7b3cb5cf4ea4943405",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9642
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_16-300x24.webp",
+      "master_id": 102,
+      "dimensions": [
+        300,
+        24
+      ],
+      "sha256": "5fe2336727560b5a0cd3ea0424d143e14daab1dfc17ed77e70e683281ebc7f92",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 3336
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_17.webp",
+      "master_id": 103,
+      "dimensions": [
+        750,
+        1062
+      ],
+      "sha256": "0526d053ba9a6dde96feca7c2cd9ca935f00155345938632b5f0813eaa32e1c8",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 852666
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_17-212x300.webp",
+      "master_id": 103,
+      "dimensions": [
+        212,
+        300
+      ],
+      "sha256": "53a6b07ff372e9a833365ac074e7516c1c2c01da2a92c5053396b86e612496b7",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 80922
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_17-723x1024.webp",
+      "master_id": 103,
+      "dimensions": [
+        723,
+        1024
+      ],
+      "sha256": "b50338f8e8fbd4246ebba118ed0c7c4003deb00554ac14246f34d47de562160f",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 737178
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_17-600x850.webp",
+      "master_id": 103,
+      "dimensions": [
+        600,
+        850
+      ],
+      "sha256": "3fa1ec3e275355d7d73f3b851e5adc0093cde162cacb86442dede830aabca7a8",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 533044
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_18.webp",
+      "master_id": 104,
+      "dimensions": [
+        750,
+        833
+      ],
+      "sha256": "f46c707b56c082a0ce742da496703c9b7820ec33b79b5f64b3594e77f9166c7b",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 195450
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_18-270x300.webp",
+      "master_id": 104,
+      "dimensions": [
+        270,
+        300
+      ],
+      "sha256": "c1eb67d5b954a77e835b3c2e6b8ffe697ad173bb390c2a2f11995a178ca082e3",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42608
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_18-600x666.webp",
+      "master_id": 104,
+      "dimensions": [
+        600,
+        666
+      ],
+      "sha256": "0ea28d2f6e9c118521a8a785c4ea1575d270ef9a6251690db5cc7b26e76baf2c",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 147032
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_19.webp",
+      "master_id": 105,
+      "dimensions": [
+        750,
+        95
+      ],
+      "sha256": "e4bbbc639fa9dec45a454667dd88fc82c821b01319593ed2f0e74ed698e96133",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16134
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_19-300x38.webp",
+      "master_id": 105,
+      "dimensions": [
+        300,
+        38
+      ],
+      "sha256": "fc86f221a154d7e864f66b3f0261f48430a51f96458f1e2c7951e9511731b2e1",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7510
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_19-600x76.webp",
+      "master_id": 105,
+      "dimensions": [
+        600,
+        76
+      ],
+      "sha256": "504ea139c3ba9c93324d4fcb8a446e401f552f56035eb91f153535ed9191450d",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15006
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_20.webp",
+      "master_id": 106,
+      "dimensions": [
+        750,
+        76
+      ],
+      "sha256": "a4f487a90707eea86b93c932e4f4e6278ec3e9fccace37fa5a9c9349a878fbff",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9688
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_20-300x30.webp",
+      "master_id": 106,
+      "dimensions": [
+        300,
+        30
+      ],
+      "sha256": "95581b669983536606610afb97aa9f3fbddf2dff6fa143c5612e559ad2696802",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 3102
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_20-600x61.webp",
+      "master_id": 106,
+      "dimensions": [
+        600,
+        61
+      ],
+      "sha256": "e1095a1f614c57b65d4f3aaa50b7dea894b33290f4bf9c33c45f755726795cb8",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 8850
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_21.webp",
+      "master_id": 107,
+      "dimensions": [
+        750,
+        1340
+      ],
+      "sha256": "77d6bde21bfabff201c87d4a711fa1ff553012bb80ae1a1df3ad894170b81cac",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 519980
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_21-600x1072.webp",
+      "master_id": 107,
+      "dimensions": [
+        600,
+        1072
+      ],
+      "sha256": "97e61a189071786ceeaf984bfe79dfd2630ef585812c724a69c97112a6395423",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 334512
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_21-168x300.webp",
+      "master_id": 107,
+      "dimensions": [
+        168,
+        300
+      ],
+      "sha256": "ef3b2ae28aead65b7150940ca117db433b2218e101810a3c9ea61d208a612e20",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43422
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-1_21-573x1024.webp",
+      "master_id": 107,
+      "dimensions": [
+        573,
+        1024
+      ],
+      "sha256": "393af882660d78480d2c22d7e2f957bcb2ce5dfdf01fc156fd1f28e2b041076e",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 313808
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_01.webp",
+      "master_id": 108,
+      "dimensions": [
+        750,
+        1072
+      ],
+      "sha256": "0affc9e1fbe321cc46ab7c44b13efe17721f7be10c0b621b2fb265b590181edb",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 674716
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_01-600x858.webp",
+      "master_id": 108,
+      "dimensions": [
+        600,
+        858
+      ],
+      "sha256": "c4db6262eea2062c51ae5ea77faa5fa28fe4adee1c67c8f01b4c07b1fa4a68a9",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 461136
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_01-716x1024.webp",
+      "master_id": 108,
+      "dimensions": [
+        716,
+        1024
+      ],
+      "sha256": "398d8d71b7042c877844d6574724a3624a3cd640003b7e8b1a2b49f5da7b5457",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 626806
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_01-210x300.webp",
+      "master_id": 108,
+      "dimensions": [
+        210,
+        300
+      ],
+      "sha256": "4fe0b6af7c87be1e5cf2f425e84625446c9f7bfac52d6a7fd60e4a39b647fdb1",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 77302
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_02.webp",
+      "master_id": 109,
+      "dimensions": [
+        750,
+        1971
+      ],
+      "sha256": "a4950fc01b6c280a984208f2526a1e5bef3e9a54a2f1dc60f15305bf197919ea",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1087366
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_02-390x1024.webp",
+      "master_id": 109,
+      "dimensions": [
+        390,
+        1024
+      ],
+      "sha256": "d89f5bba8600c2fc9d1ef6100d29d5b2395525ac908f261b82161cce60c02317",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 339510
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_02-114x300.webp",
+      "master_id": 109,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "55fc9d227c2c20418d3e7e5ea1ba2e3500d82dcf143a2df944fadfd1b237b52b",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 40706
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_02-584x1536.webp",
+      "master_id": 109,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "117c1e0066c75570ae7f33aea26ff000ab41366e525abdf592c553bf9e8ad9dc",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 679592
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_02-600x1577.webp",
+      "master_id": 109,
+      "dimensions": [
+        600,
+        1577
+      ],
+      "sha256": "37e4402cbafed3630d459a7e4b1ed801c5fc231d330c3806467726877e235722",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 704972
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_03.webp",
+      "master_id": 110,
+      "dimensions": [
+        750,
+        88
+      ],
+      "sha256": "9f2ac6c07778ef31698cf90a7975b68fe96550ee7c76fd08a4bee83c4fa94a7a",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13774
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_03-600x70.webp",
+      "master_id": 110,
+      "dimensions": [
+        600,
+        70
+      ],
+      "sha256": "a6acb4c31ef680af468afe066a7e3276be0947a62a1c0ab1db0952f4c5b1fe37",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 12718
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_03-300x35.webp",
+      "master_id": 110,
+      "dimensions": [
+        300,
+        35
+      ],
+      "sha256": "11c91290b5839b6f1f2529a0ed150e4f957efb51dbfa7ebfb179c4949a0e6774",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6386
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_04.webp",
+      "master_id": 111,
+      "dimensions": [
+        750,
+        137
+      ],
+      "sha256": "832281cdd3637f37beb25430a57d3f735dc6e19f75af945b18aabe0843a29ad7",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16482
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_04-300x55.webp",
+      "master_id": 111,
+      "dimensions": [
+        300,
+        55
+      ],
+      "sha256": "978ee0293c1afcf792d5553b99642033fd23f6fa9f3d289a96327793c2424c42",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7286
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_04-600x110.webp",
+      "master_id": 111,
+      "dimensions": [
+        600,
+        110
+      ],
+      "sha256": "6dfa8d3ae17dbe863671107b922a55bc241d26d2b8fd617954c299c2ed26bcdd",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 22820
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_05.webp",
+      "master_id": 112,
+      "dimensions": [
+        750,
+        691
+      ],
+      "sha256": "25ecab60596f5fe990228a87deea0efcd27dd2c5f1e114ee91c1a16b6c8fe2cd",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 364822
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_05-600x553.webp",
+      "master_id": 112,
+      "dimensions": [
+        600,
+        553
+      ],
+      "sha256": "e59820d450b4c91508eea249899e7f1887b033612af0059b4cdc55eeecd7f733",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 240260
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_05-300x276.webp",
+      "master_id": 112,
+      "dimensions": [
+        300,
+        276
+      ],
+      "sha256": "cd833bb96e0b983347e222436244fcf8bbb361929a2ccf445d2b8c89172ea3d1",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 74292
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_06.webp",
+      "master_id": 113,
+      "dimensions": [
+        750,
+        435
+      ],
+      "sha256": "ebea216b9b078f77ed2b6e3d8ebbe3de5cd7c70ae6696463e3abf5cb6e57c422",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 117492
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_06-600x348.webp",
+      "master_id": 113,
+      "dimensions": [
+        600,
+        348
+      ],
+      "sha256": "3c24beed69f1f82d1f7ea796a9adcf04f74be811778ec42f488bea3bffb82878",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 78998
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_06-300x174.webp",
+      "master_id": 113,
+      "dimensions": [
+        300,
+        174
+      ],
+      "sha256": "c607fc5c199bcb6098a5e8ec5f12c1a530d79fd571b9f0bfdbc00640a927cc82",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 26740
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_07.webp",
+      "master_id": 114,
+      "dimensions": [
+        750,
+        748
+      ],
+      "sha256": "358f29bf6fb342fc07a7fb7c601f4d1ce0b52a6e5bbc14b5151f2d5cef6b5aac",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 130766
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_07-300x300.webp",
+      "master_id": 114,
+      "dimensions": [
+        300,
+        300
+      ],
+      "sha256": "8d1d89deb6671695a090d07e0e77ded439a0c93e15a9bcbf32133399899fdc5d",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41954
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_07-600x598.webp",
+      "master_id": 114,
+      "dimensions": [
+        600,
+        598
+      ],
+      "sha256": "38e13e22c7548756226fc0fb82966b32f1a9828c61e86b62af6d2c2499c9894f",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 121522
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_07-100x100.webp",
+      "master_id": 114,
+      "dimensions": [
+        100,
+        100
+      ],
+      "sha256": "a4bfe0153e7c8c0921046d330c8e3c0160417012974ae747f82e249dccf1fc08",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6434
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_07-150x150.webp",
+      "master_id": 114,
+      "dimensions": [
+        150,
+        150
+      ],
+      "sha256": "66abee991b0b71ba5b7fd2aaf65a07671176defdbdf1475df5bc5ec4ba02204c",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 12578
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_08.webp",
+      "master_id": 115,
+      "dimensions": [
+        750,
+        748
+      ],
+      "sha256": "73ebb7838f214d855034c8123611f5d1e36833baa2307a1d0aa09640f969a9a9",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 279854
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_08-150x150.webp",
+      "master_id": 115,
+      "dimensions": [
+        150,
+        150
+      ],
+      "sha256": "4a8705c20ec5b97da51f68d768ddbf5ac2c5bcc2d376fa5789b1d7f6f0130dc5",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 20198
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_08-300x300.webp",
+      "master_id": 115,
+      "dimensions": [
+        300,
+        300
+      ],
+      "sha256": "6a05524f31e0dc91f34b90a403cd9a1526d0a45103b900476d8a4b316b3c2715",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 60000
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_08-100x100.webp",
+      "master_id": 115,
+      "dimensions": [
+        100,
+        100
+      ],
+      "sha256": "4accc27728c395d96d9984cead1c7d7e4a703a8a17fbeefe21884994794d5e10",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10854
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_08-600x598.webp",
+      "master_id": 115,
+      "dimensions": [
+        600,
+        598
+      ],
+      "sha256": "03d63210bac12e21e4a96516611b218cba815215785cae729005625456c198c1",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 188030
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_09.webp",
+      "master_id": 116,
+      "dimensions": [
+        750,
+        407
+      ],
+      "sha256": "6855838688f0a14918147f9a77a63138f07382a1e52eb0cb9caa441525e704dd",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 79548
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_09-300x163.webp",
+      "master_id": 116,
+      "dimensions": [
+        300,
+        163
+      ],
+      "sha256": "953538441afe0bcccb6f7a38f591d8ffbc89cce866734e06c68f39744b26beb7",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 24294
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_09-600x326.webp",
+      "master_id": 116,
+      "dimensions": [
+        600,
+        326
+      ],
+      "sha256": "19748d4123a46c73dc9d4167d6c5ed5ed3d55d0b19d1c4a25f27655723c104d9",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 69462
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_10.webp",
+      "master_id": 117,
+      "dimensions": [
+        750,
+        2040
+      ],
+      "sha256": "e5c47c7df507eb86e02ad0c2da95a7a1467ec94b7bd50a2eb96bca32629b8f90",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1427434
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_10-600x1632.webp",
+      "master_id": 117,
+      "dimensions": [
+        600,
+        1632
+      ],
+      "sha256": "98dde75ba566f82ad9902f98b9656100ea1992bcc86af6f8fdeb5b789f0e0759",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 880270
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_10-376x1024.webp",
+      "master_id": 117,
+      "dimensions": [
+        376,
+        1024
+      ],
+      "sha256": "c063175d2202ba4abe5d9a23a1d19cca60c0a2c50f4a0bad3d186028b45da1a4",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 378996
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_10-565x1536.webp",
+      "master_id": 117,
+      "dimensions": [
+        565,
+        1536
+      ],
+      "sha256": "a5781b957e9b2f043c12f8974c76995880e37228414ed3391dadfd7a74161233",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 787218
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_10-110x300.webp",
+      "master_id": 117,
+      "dimensions": [
+        110,
+        300
+      ],
+      "sha256": "8579821fe3a411d5f41e2fb470f89f006264300b13568bf09bfcc0b62f494db4",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42374
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11.webp",
+      "master_id": 118,
+      "dimensions": [
+        750,
+        2207
+      ],
+      "sha256": "50ce239b73d34a8904ac2299bac7b851876c7bd767937ba34b78127d95556751",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1004126
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11-102x300.webp",
+      "master_id": 118,
+      "dimensions": [
+        102,
+        300
+      ],
+      "sha256": "d80683c2400104dd54d7aa574a7e87122ffe864c4c198622add9f0309616d0a3",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 36758
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11-522x1536.webp",
+      "master_id": 118,
+      "dimensions": [
+        522,
+        1536
+      ],
+      "sha256": "ee5eda6a622a6aadd2e7ee3df7a4821eed748d35272dc6c874172b1507de8ffa",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 538640
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11-696x2048.webp",
+      "master_id": 118,
+      "dimensions": [
+        696,
+        2048
+      ],
+      "sha256": "b8ae68c988ff00dab92ab937dcf71f9d4a26d87ccef211e429412ae1b3a0108d",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 854574
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11-600x1766.webp",
+      "master_id": 118,
+      "dimensions": [
+        600,
+        1766
+      ],
+      "sha256": "65b97cdf5d6c5c78bbe464cbff55257a2ddda527fb420d60703104a3ff7141b7",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 683860
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-2_11-348x1024.webp",
+      "master_id": 118,
+      "dimensions": [
+        348,
+        1024
+      ],
+      "sha256": "3bbce876f347098d96d0f3d979591f4f8d478417d3f4cecd8b8c8ce924676514",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 279150
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_01.webp",
+      "master_id": 119,
+      "dimensions": [
+        750,
+        846
+      ],
+      "sha256": "7265cb168199a82ba2ca7501044dbc811cc51666c6311cedde241fbc08314731",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 640754
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_01-600x677.webp",
+      "master_id": 119,
+      "dimensions": [
+        600,
+        677
+      ],
+      "sha256": "d755d60d4919dfb06dcf19eea12e2821f9a9471d9c3fd9bc215f70932a6e7491",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 430912
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_01-266x300.webp",
+      "master_id": 119,
+      "dimensions": [
+        266,
+        300
+      ],
+      "sha256": "51933b260fb9b2a1f4578d4ee43b2e198f6a06f3347dd9099fd5469c8edef8ef",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 105882
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_02.webp",
+      "master_id": 120,
+      "dimensions": [
+        750,
+        216
+      ],
+      "sha256": "c8a8a57837ff8944fab6c5ca2e441d36a65ed104353d6fe98bec8eabd4b27d2a",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18448
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_02-600x173.webp",
+      "master_id": 120,
+      "dimensions": [
+        600,
+        173
+      ],
+      "sha256": "38912b0942f71a2dd2a4c749980b32c81aa20915059ce8e99f99508df285d6a6",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 26046
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_02-300x86.webp",
+      "master_id": 120,
+      "dimensions": [
+        300,
+        86
+      ],
+      "sha256": "2f8467560ae838585c1417838e6d3b3b094e8faf7b84799b9c64da67d67a6323",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10426
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_03.webp",
+      "master_id": 121,
+      "dimensions": [
+        750,
+        1973
+      ],
+      "sha256": "c5b548eb57019d396777923a275d20904fbfc1542c447a4e6885b2976f42ddaf",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 992482
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_03-114x300.webp",
+      "master_id": 121,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "5aa837a773f0aa3837f539c08e21411ba8a807aae2c33b210e25be9dd5ec2e1a",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42038
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_03-584x1536.webp",
+      "master_id": 121,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "155b52067c5f697971c38bfa5ee78d174056c013c0c4345e5b6a81646ec0d350",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 631600
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_03-600x1578.webp",
+      "master_id": 121,
+      "dimensions": [
+        600,
+        1578
+      ],
+      "sha256": "871cedbce1dd5810f0a3baa5796ca171bde0e47b5405a0eaf41b859156134ef4",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 658676
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_03-389x1024.webp",
+      "master_id": 121,
+      "dimensions": [
+        389,
+        1024
+      ],
+      "sha256": "4b1bb1874ae9e51ac2581762cee67b91261e7f2d149fe94b57d78ac426916f72",
+      "text_regions": 19,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 327606
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_04.webp",
+      "master_id": 122,
+      "dimensions": [
+        750,
+        85
+      ],
+      "sha256": "ae4cbad3aedca468c2b3f593f2bbbe97ea5bc3700fd075d411c2b96ec67a7653",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13886
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_04-600x68.webp",
+      "master_id": 122,
+      "dimensions": [
+        600,
+        68
+      ],
+      "sha256": "d5585bf562fec15109178d92d09fe33be1dad775bcca4af1c71acdee3680553b",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15164
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_04-300x34.webp",
+      "master_id": 122,
+      "dimensions": [
+        300,
+        34
+      ],
+      "sha256": "3a174125f663f43e473e9ddcae4d1ef664f791cfd22c4595b9ff4ab1e213d7cd",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6096
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_05.webp",
+      "master_id": 123,
+      "dimensions": [
+        750,
+        139
+      ],
+      "sha256": "db937b96733c510ec23fc0fdb53410ba1c04d4f902efd619de4f95bc712c3e3d",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16422
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_05-300x56.webp",
+      "master_id": 123,
+      "dimensions": [
+        300,
+        56
+      ],
+      "sha256": "201239bb8059f557968d3e53013fa992a8277cb3dc7c651fb4a75c8746de2f05",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7544
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_05-600x111.webp",
+      "master_id": 123,
+      "dimensions": [
+        600,
+        111
+      ],
+      "sha256": "dc69c7afbbc27a51863ee152a453152dd93a768da419dc0b4b3631ee2fbd463b",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 22832
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_06.webp",
+      "master_id": 124,
+      "dimensions": [
+        750,
+        690
+      ],
+      "sha256": "8634c57c72327bfa7df23b05393b3301f7236ce6708be4cff5dbd19357bfed7c",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 393992
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_06-600x552.webp",
+      "master_id": 124,
+      "dimensions": [
+        600,
+        552
+      ],
+      "sha256": "4e1e82d6b032f659abdb3e2bff03ccf5092b4fb8cbf38d8ac0aa82c48e5569aa",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 248824
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_06-300x276.webp",
+      "master_id": 124,
+      "dimensions": [
+        300,
+        276
+      ],
+      "sha256": "e2fa10ef8f25e667d95957986e07dd8ee924c4c6856af51cd3886de6c9180a75",
+      "text_regions": 5,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 79228
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_07.webp",
+      "master_id": 125,
+      "dimensions": [
+        750,
+        1281
+      ],
+      "sha256": "d1cf0c1efed68d218da5ab4858cfd172255a472482c70e65c14a6da40e2aaf21",
+      "text_regions": 3,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1054440
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_07-600x1025.webp",
+      "master_id": 125,
+      "dimensions": [
+        600,
+        1025
+      ],
+      "sha256": "07439fdfc2941fc022e56d5b1290ca47acf9e918ffe03b56143526e86b467137",
+      "text_regions": 3,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 612646
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_07-176x300.webp",
+      "master_id": 125,
+      "dimensions": [
+        176,
+        300
+      ],
+      "sha256": "df28ca2d08ec4b8d9ca0595a94bbd6aca0aad8af081db190ee1e79baa5d0c981",
+      "text_regions": 3,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 61938
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_08.webp",
+      "master_id": 126,
+      "dimensions": [
+        750,
+        910
+      ],
+      "sha256": "ddc0e06f76d5f3c7bad17c6fe599097a2bf150b088bdef94f48ea546192e25fe",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 137744
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_08-600x728.webp",
+      "master_id": 126,
+      "dimensions": [
+        600,
+        728
+      ],
+      "sha256": "75989e7d30f07e582157ba926fcd8d584f0e21379bef04b9b29687f812f4aee1",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 128656
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_08-247x300.webp",
+      "master_id": 126,
+      "dimensions": [
+        247,
+        300
+      ],
+      "sha256": "0acda1f075af380d05f12f9d4f2aac84f2176715aa3c808546a7fdf46596a1c7",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 32312
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_09.webp",
+      "master_id": 127,
+      "dimensions": [
+        750,
+        635
+      ],
+      "sha256": "30a737360a3cc4f1725c0a55d24f67db3ee0d448dcbf1b096f272fce3539a5cb",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 206496
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_09-600x508.webp",
+      "master_id": 127,
+      "dimensions": [
+        600,
+        508
+      ],
+      "sha256": "9982ace364ca50621fb157c6e35badf056453f04ade3efe2fe70663b2a96f5ed",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 141872
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_09-300x254.webp",
+      "master_id": 127,
+      "dimensions": [
+        300,
+        254
+      ],
+      "sha256": "e87af8fbdf6ff04476f35ecb145665629d732c284f06148afbc85913b66d06a1",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 47946
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_10.webp",
+      "master_id": 128,
+      "dimensions": [
+        750,
+        420
+      ],
+      "sha256": "df83b83d25d905f2cd901ed05f2578cc3e76e12805e8ea1cfca141987f5ef304",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 76962
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_10-300x168.webp",
+      "master_id": 128,
+      "dimensions": [
+        300,
+        168
+      ],
+      "sha256": "7a452861e05509b3f6349f64370627dd4f52831f92f45aac03b7304bd5596ffa",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 24890
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_10-600x336.webp",
+      "master_id": 128,
+      "dimensions": [
+        600,
+        336
+      ],
+      "sha256": "dca20d8ff5dbcdd92b9ec46e2b59977fb5b9c1e8e73c8eece6232a29ee7a04e1",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 66424
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_11.webp",
+      "master_id": 129,
+      "dimensions": [
+        750,
+        2043
+      ],
+      "sha256": "935900c941d67032530dadc4227a4eadb5d967d032b358d57e5a6c3ffaf279b1",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1517928
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_11-564x1536.webp",
+      "master_id": 129,
+      "dimensions": [
+        564,
+        1536
+      ],
+      "sha256": "2d961abce6068a5606232112cf9754b5a8a254dcbe7214352b05eb89a31f03f0",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 849746
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_11-376x1024.webp",
+      "master_id": 129,
+      "dimensions": [
+        376,
+        1024
+      ],
+      "sha256": "c4d733c1d8cba2a03665cc91e9c41035d67051bbb70ca509d6a2b49392bf1054",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 412196
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_11-110x300.webp",
+      "master_id": 129,
+      "dimensions": [
+        110,
+        300
+      ],
+      "sha256": "d358030603680110b4993c63705f5366e757523b8a6db089cf79b8eea44edb49",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 44832
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_11-600x1634.webp",
+      "master_id": 129,
+      "dimensions": [
+        600,
+        1634
+      ],
+      "sha256": "8b32ea33e3dfbe9390d27aa228a925029d5a3e91d5d7a6dc0a17cb149cf5bfba",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 945554
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12.webp",
+      "master_id": 130,
+      "dimensions": [
+        750,
+        2391
+      ],
+      "sha256": "f5a7b20e39bc21ca0ff3c6625e7338c8fff7415a5c7ca05dc528dbbc36027092",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1096244
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12-600x1913.webp",
+      "master_id": 130,
+      "dimensions": [
+        600,
+        1913
+      ],
+      "sha256": "e7ca1228879a6ae572c0050758b45a4085fd092f395d886143472aba45820edb",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 748914
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12-642x2048.webp",
+      "master_id": 130,
+      "dimensions": [
+        642,
+        2048
+      ],
+      "sha256": "99aef4b1643d5b810b4f5635215d78dd76701ccceec34f20d8668c500bfaf658",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 836480
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12-482x1536.webp",
+      "master_id": 130,
+      "dimensions": [
+        482,
+        1536
+      ],
+      "sha256": "2a543701af73c3d5689a1affdb27c84f7d2030d41b657bf8a30049b515e45dbc",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 521198
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12-94x300.webp",
+      "master_id": 130,
+      "dimensions": [
+        94,
+        300
+      ],
+      "sha256": "feab1745d62972670e3e35349564da3f3e007668cd8c1260326f2ee9011b7323",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 34866
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_12-321x1024.webp",
+      "master_id": 130,
+      "dimensions": [
+        321,
+        1024
+      ],
+      "sha256": "a8bc6d37c0f0c85e49e7a0ceb8d33039b95b8036543e84bbac3a8cfc3da3232a",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 270070
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_13.webp",
+      "master_id": 131,
+      "dimensions": [
+        750,
+        93
+      ],
+      "sha256": "f85ff5e03f743bab3625ea6cd0cbc952cf3c8f456352fd24f2582987fca07f4d",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10088
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_13-300x37.webp",
+      "master_id": 131,
+      "dimensions": [
+        300,
+        37
+      ],
+      "sha256": "982a6f2fff27bdf9e27e9bbb70cb233e5558293a191b2a027875320e4656c54f",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 5586
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_13-600x74.webp",
+      "master_id": 131,
+      "dimensions": [
+        600,
+        74
+      ],
+      "sha256": "2c93ba0713e9f6028962a7218f872bbd3d61534e93d785cf23b9c6621ee75f5e",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9860
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_14.webp",
+      "master_id": 132,
+      "dimensions": [
+        750,
+        53
+      ],
+      "sha256": "919c40e7436a751097fb256d0dfc6fa4f5370e68a2c964d98dc512bbbae71ee9",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9532
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_14-600x42.webp",
+      "master_id": 132,
+      "dimensions": [
+        600,
+        42
+      ],
+      "sha256": "5f0cb4f212bd139d8ca9e07c8f8a272dcd6896efc608bed33dd3f51ab544a65d",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9326
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_14-300x21.webp",
+      "master_id": 132,
+      "dimensions": [
+        300,
+        21
+      ],
+      "sha256": "6f91a1bb748a59cb09e04a29e409a10912887aa37354634a449a6c417390ab05",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 3250
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_15.webp",
+      "master_id": 133,
+      "dimensions": [
+        750,
+        1066
+      ],
+      "sha256": "d2135431019d0392cb7e09188775797081bffc8c841b64fcfde24efcb29459d4",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 853710
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_15-720x1024.webp",
+      "master_id": 133,
+      "dimensions": [
+        720,
+        1024
+      ],
+      "sha256": "efedfe244f60547113d2f877fe85233287595614a69aba80bd159a4efc59fda4",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 730812
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_15-600x853.webp",
+      "master_id": 133,
+      "dimensions": [
+        600,
+        853
+      ],
+      "sha256": "16f229319d97b5f720f94f7348119f22f1f3052345bdbbb55c6089aa8158992b",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 531310
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_15-211x300.webp",
+      "master_id": 133,
+      "dimensions": [
+        211,
+        300
+      ],
+      "sha256": "47dd6b35195e883e6ea263bab32851f269b471f0bde0a74d5d9365de2b9463b9",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 80476
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_16.webp",
+      "master_id": 134,
+      "dimensions": [
+        750,
+        829
+      ],
+      "sha256": "1739bdba8ea42195fd710e06ddf9da4164e87b9d41a4f2f7fbeeb7a68a8535df",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 190474
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_16-271x300.webp",
+      "master_id": 134,
+      "dimensions": [
+        271,
+        300
+      ],
+      "sha256": "64eb9c94b7a98f667250a6a078043b606639670279162adb34126760de4128f1",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43144
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-3_16-600x663.webp",
+      "master_id": 134,
+      "dimensions": [
+        600,
+        663
+      ],
+      "sha256": "d008c5a2e2dda3e585f30c93f1230db047417dbec8e72007a6ccb1557ed54820",
+      "text_regions": 33,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 144180
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_01.webp",
+      "master_id": 135,
+      "dimensions": [
+        750,
+        1060
+      ],
+      "sha256": "d842917eb67654fd0f2e635d1049348d2b4c417972769368ca920a71d3f8f072",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 677814
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_01-600x848.webp",
+      "master_id": 135,
+      "dimensions": [
+        600,
+        848
+      ],
+      "sha256": "2e64e9a05150a64acbf6d6db607bc773ef2d5de2b39cfdd7e46ebf98d0e30f13",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 463784
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_01-212x300.webp",
+      "master_id": 135,
+      "dimensions": [
+        212,
+        300
+      ],
+      "sha256": "6b71dc6df956cc52fc0c5f632e2397b754e65a06e4108f1584bd7c162780c5e9",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 79096
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_01-725x1024.webp",
+      "master_id": 135,
+      "dimensions": [
+        725,
+        1024
+      ],
+      "sha256": "6cfec304560dc8065763b73eaaf5e2e5fb64d5774756996d9c2e998df5fcb377",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 642326
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_02.webp",
+      "master_id": 136,
+      "dimensions": [
+        750,
+        1972
+      ],
+      "sha256": "ea4c74f9c927c965cf14a40dddc5794edd9a92f52776e911b8070aaed5bd73d8",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 918380
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_02-114x300.webp",
+      "master_id": 136,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "464578830d4ba00b2d5066d4cb78ccfc0e14afa89b03130532a0080c20bebcc7",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 40740
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_02-584x1536.webp",
+      "master_id": 136,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "3804442a41c7053a40731afdb732ebec0ed075abfeb8a9e2f78f8d7142a64a55",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 577964
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_02-600x1578.webp",
+      "master_id": 136,
+      "dimensions": [
+        600,
+        1578
+      ],
+      "sha256": "0e5869f246092bdc3a9f783b6cd89d0d5ab5e7ae8412e57703f8d47b726a1cd2",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 606076
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_02-389x1024.webp",
+      "master_id": 136,
+      "dimensions": [
+        389,
+        1024
+      ],
+      "sha256": "3153812372cdbaf887494b1ff1663e6745b92f7f61cb015b17572ef715399cd3",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 304680
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_03.webp",
+      "master_id": 137,
+      "dimensions": [
+        750,
+        85
+      ],
+      "sha256": "df1295329890ade89f071e2c7a3bdffc5cbb7ce8e630fd861039c51ffe47eff9",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13656
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_03-300x34.webp",
+      "master_id": 137,
+      "dimensions": [
+        300,
+        34
+      ],
+      "sha256": "5dec34e8152d5b060b2d99073af7ca0c32ab3084453dd43f8e2217f0641aa614",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6254
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_03-600x68.webp",
+      "master_id": 137,
+      "dimensions": [
+        600,
+        68
+      ],
+      "sha256": "bdbd76810e068ca560da31be088214fdaae105cd70ef8a1a314eeeecb7921f85",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13364
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_04.webp",
+      "master_id": 138,
+      "dimensions": [
+        750,
+        139
+      ],
+      "sha256": "1888c32c5d5183b328ac9c938bf5abf26acc3d8a21477f499e86565658e90eea",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16476
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_04-300x56.webp",
+      "master_id": 138,
+      "dimensions": [
+        300,
+        56
+      ],
+      "sha256": "58466986d0d10d3385235c6cf131287479b9b2b2a76afe23dc8773b7935ceeaf",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7542
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_04-600x111.webp",
+      "master_id": 138,
+      "dimensions": [
+        600,
+        111
+      ],
+      "sha256": "960a96072a9b56ee6201efbf767edc1bf2f2083cb0b1dea9258e66cd17b306d0",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 22838
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05.webp",
+      "master_id": 139,
+      "dimensions": [
+        750,
+        2161
+      ],
+      "sha256": "66b955562a5bf44cd0b31494975ca6d92c95b1904f1aef8faf28d02e4d472412",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1477486
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05-533x1536.webp",
+      "master_id": 139,
+      "dimensions": [
+        533,
+        1536
+      ],
+      "sha256": "958e8f26796a307ced25806eef729934b1fbd717a9c91b63900af8db76f8c93e",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 714166
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05-711x2048.webp",
+      "master_id": 139,
+      "dimensions": [
+        711,
+        2048
+      ],
+      "sha256": "3df6996e68e3b77540da497661baf6df2bf335f594a9198360b341e1ba7e5060",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1185728
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05-104x300.webp",
+      "master_id": 139,
+      "dimensions": [
+        104,
+        300
+      ],
+      "sha256": "d1e0f7d308749c0cc0922a65138f25cb7533e466643eef8c849e0d06c2fed2f1",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 39098
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05-355x1024.webp",
+      "master_id": 139,
+      "dimensions": [
+        355,
+        1024
+      ],
+      "sha256": "f1cdcc41776b39a3886a3d3289d76d996b7a77c478c6dde1ce9953257cefb487",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 344022
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_05-600x1729.webp",
+      "master_id": 139,
+      "dimensions": [
+        600,
+        1729
+      ],
+      "sha256": "b21653e8fb0cb94f0ac9ff3da7f912091163be1b4b3aef7a83b797cf070f98a4",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 878040
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_06.webp",
+      "master_id": 140,
+      "dimensions": [
+        750,
+        906
+      ],
+      "sha256": "d3e404fb0163974108ab0ed7ec212458db5290f4dd989baee2c4dca6503b4cb0",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 144952
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_06-600x725.webp",
+      "master_id": 140,
+      "dimensions": [
+        600,
+        725
+      ],
+      "sha256": "c5dfe855e220de467dc20d44e3b07400ea460e0f46af77c3c37402b4da031935",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 140940
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_06-248x300.webp",
+      "master_id": 140,
+      "dimensions": [
+        248,
+        300
+      ],
+      "sha256": "517181d83403cc662a9446442d3eee0eef1e7a1dd6260cd83bb1070213470388",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 32762
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_07.webp",
+      "master_id": 141,
+      "dimensions": [
+        750,
+        638
+      ],
+      "sha256": "af2d78c7841125d7d44bd5cf136b6e8181a6f12a6a4ab2e74f9e486666df6752",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 169010
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_07-300x255.webp",
+      "master_id": 141,
+      "dimensions": [
+        300,
+        255
+      ],
+      "sha256": "a77697ff041a2ebd0da39cb910ad6f81e86fdcd5c2039b530f59da15c21ba809",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42758
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_07-600x510.webp",
+      "master_id": 141,
+      "dimensions": [
+        600,
+        510
+      ],
+      "sha256": "3b5884095c48914a12b10beb8a07b4c20fd6cd5d67e5d7e2f416bfb634eeff07",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 114698
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_08.webp",
+      "master_id": 142,
+      "dimensions": [
+        750,
+        417
+      ],
+      "sha256": "de13d20637bc5ae64d2b427b25baac80a5d127857c574b1ea6b334c9475bc312",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 77980
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_08-600x334.webp",
+      "master_id": 142,
+      "dimensions": [
+        600,
+        334
+      ],
+      "sha256": "5b63338dc644289c38a00501fc00f9527fab94c2aed551e4e6b3e07414a0f619",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 66728
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_08-300x167.webp",
+      "master_id": 142,
+      "dimensions": [
+        300,
+        167
+      ],
+      "sha256": "2e0457b9df0dda851375a11f5620744398351d82d5390f2ff62bf52cc26305a9",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 24662
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_09.webp",
+      "master_id": 143,
+      "dimensions": [
+        750,
+        2044
+      ],
+      "sha256": "2e2dd2c7cb2cabab87cdba44e1501c084106df1c5f43339011d29b949ba7ea5a",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1320158
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_09-600x1635.webp",
+      "master_id": 143,
+      "dimensions": [
+        600,
+        1635
+      ],
+      "sha256": "99f25be3c850ca983bf4e789f189e2cc1f96828e14f370be7a62f4fe7e232b27",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 848044
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_09-564x1536.webp",
+      "master_id": 143,
+      "dimensions": [
+        564,
+        1536
+      ],
+      "sha256": "fab3f1c2263c456bf4d4fc883f2b17e1d316af9366b2bf7cd6634754b74ed8bb",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 764058
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_09-376x1024.webp",
+      "master_id": 143,
+      "dimensions": [
+        376,
+        1024
+      ],
+      "sha256": "10f55dfb80f53d3f3efaf730ec72f39be9cbdc67619e9163fb81d268adbdc310",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 377684
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_09-110x300.webp",
+      "master_id": 143,
+      "dimensions": [
+        110,
+        300
+      ],
+      "sha256": "16fc412f9ba067b304d21b787bd870efe7402224c4ca56c32af8d9d66e99378e",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42646
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10.webp",
+      "master_id": 144,
+      "dimensions": [
+        750,
+        2391
+      ],
+      "sha256": "ea47459b0ef04abc9f649045fdd61e7ba4437584edd222be16d17a0435b0b34a",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1159330
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10-600x1913.webp",
+      "master_id": 144,
+      "dimensions": [
+        600,
+        1913
+      ],
+      "sha256": "838ee4bc3948ff26c010d0e84e93ced01adc3f0cf3474cfe082a7168b181546b",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 790202
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10-94x300.webp",
+      "master_id": 144,
+      "dimensions": [
+        94,
+        300
+      ],
+      "sha256": "0b9a7685a17ffd9902407cd7661bec9885a052d8fadd59f1f7dda777622ed8ef",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 36636
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10-642x2048.webp",
+      "master_id": 144,
+      "dimensions": [
+        642,
+        2048
+      ],
+      "sha256": "0167b27aba1b28a81ff20908394c316fe6706d7a6749033eebdd53f0598c7427",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 884548
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10-321x1024.webp",
+      "master_id": 144,
+      "dimensions": [
+        321,
+        1024
+      ],
+      "sha256": "99b0836693275e9a37bf68ca78925d115d3e96104f213a10d2bec8eaa011ebb7",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 285454
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-4_10-482x1536.webp",
+      "master_id": 144,
+      "dimensions": [
+        482,
+        1536
+      ],
+      "sha256": "844fd7244165d18de80290e2bff7838a5d276ef4ab952cb1d7f21291ce434477",
+      "text_regions": 37,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 547786
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_01.webp",
+      "master_id": 145,
+      "dimensions": [
+        750,
+        1073
+      ],
+      "sha256": "071372b5d10ad7b244be9592433be5bc1674fb6fb4db2a5f415dc86800041260",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 677126
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_01-600x858.webp",
+      "master_id": 145,
+      "dimensions": [
+        600,
+        858
+      ],
+      "sha256": "1dc09749c18378bd7eec44db41bae01a59c0ae7e21e8898f4293c90ded9ca1e9",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 461672
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_01-716x1024.webp",
+      "master_id": 145,
+      "dimensions": [
+        716,
+        1024
+      ],
+      "sha256": "15e7595fecb7238ae70b6338a9b1c32cec043975a6c4b255c4c69fcd675f06cd",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 625660
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_01-210x300.webp",
+      "master_id": 145,
+      "dimensions": [
+        210,
+        300
+      ],
+      "sha256": "5c28cf4acc61f67aebb5098bfacdcda280d1d28545de159eec35e7720d2244b5",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 77052
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_02.webp",
+      "master_id": 146,
+      "dimensions": [
+        750,
+        1973
+      ],
+      "sha256": "e538fb4aae725e915e940a51ab8318b1b5335e4366b2fec5f1cb7a6b5ca7879b",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 880334
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_02-114x300.webp",
+      "master_id": 146,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "54039cd70fbc843815508493d3201c5ca41a64f917cc12ff8114ec414f94b767",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41900
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_02-584x1536.webp",
+      "master_id": 146,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "8b116c092e43f9d4bef9fc61235ff07e0a6eb79c6536edc5202b4c1ce36c6559",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 571758
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_02-600x1578.webp",
+      "master_id": 146,
+      "dimensions": [
+        600,
+        1578
+      ],
+      "sha256": "760c45315ac7132d0aad8a9096997f85f93f2f5c29b88db8df58a630e952491d",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 595194
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_02-389x1024.webp",
+      "master_id": 146,
+      "dimensions": [
+        389,
+        1024
+      ],
+      "sha256": "1046b7b020985860ead2575a777f657390e2ad5d904310882c552c9d9ed28b46",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 309896
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_03.webp",
+      "master_id": 147,
+      "dimensions": [
+        750,
+        89
+      ],
+      "sha256": "798da361f6a1daf4835f45cb0f7a6f6988e06450294bb3b50eaaba54c6403ec8",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 14202
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_03-600x71.webp",
+      "master_id": 147,
+      "dimensions": [
+        600,
+        71
+      ],
+      "sha256": "990ade735d81becd8c4dd14ee0c1e451d956678f6ea19a1b2e68cb1bdbde50df",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13134
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_03-300x36.webp",
+      "master_id": 147,
+      "dimensions": [
+        300,
+        36
+      ],
+      "sha256": "fa987374bbc7a24f1064782257d4d3455b54e487ea7771c1aa597aa6b178e009",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6398
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_04.webp",
+      "master_id": 148,
+      "dimensions": [
+        750,
+        135
+      ],
+      "sha256": "faa2c2ab4989045d826d9e169aadf9c8610b725fc6cc5dc1db422d80c5e47c59",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16432
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_04-600x108.webp",
+      "master_id": 148,
+      "dimensions": [
+        600,
+        108
+      ],
+      "sha256": "cafb07c1a4cf1af33c72fc9596643ab26915b2c49b9ade6ffc81f9fa01399860",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 22698
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_04-300x54.webp",
+      "master_id": 148,
+      "dimensions": [
+        300,
+        54
+      ],
+      "sha256": "b7ff4e3ac35520d35396ab6951ef62441796b4d6661f054009e6217b5788d4db",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7266
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_05.webp",
+      "master_id": 149,
+      "dimensions": [
+        750,
+        1986
+      ],
+      "sha256": "ef14acbcf9d773d4235ab0648f7dcebff1472f931f8787dde4dc01c694a86eee",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1385986
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_05-387x1024.webp",
+      "master_id": 149,
+      "dimensions": [
+        387,
+        1024
+      ],
+      "sha256": "8f2f13204345ce209ab060f931bbb9d577c23b57fc6ba8d2b14ebbef937cc77a",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 377902
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_05-580x1536.webp",
+      "master_id": 149,
+      "dimensions": [
+        580,
+        1536
+      ],
+      "sha256": "c2aa54f1a4cd7f797cb0ff6a7b7f203420d683c4889ba30ee7fca5f6f17e8ebd",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 774364
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_05-600x1589.webp",
+      "master_id": 149,
+      "dimensions": [
+        600,
+        1589
+      ],
+      "sha256": "29cf418f54698b8b7a6fb9430a4efc0837eaf8be68fc962a8bdfb51ab1a49674",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 821824
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_05-113x300.webp",
+      "master_id": 149,
+      "dimensions": [
+        113,
+        300
+      ],
+      "sha256": "198bacafc1f1932a0f99bda83b6bde84da405828ba373663c96c4358f49c0f56",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 44024
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_06.webp",
+      "master_id": 150,
+      "dimensions": [
+        750,
+        460
+      ],
+      "sha256": "6e6d9fc39dd5d5d7f59fa137ea404488e81e5fb9d51e67fee9bc91bde1cc6d39",
+      "text_regions": 47,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 124596
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_06-300x184.webp",
+      "master_id": 150,
+      "dimensions": [
+        300,
+        184
+      ],
+      "sha256": "b9d26d4968016b7f88b2735379f801fa794410b86f89462a2c6bbdbfef99a45e",
+      "text_regions": 47,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 31778
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_06-600x368.webp",
+      "master_id": 150,
+      "dimensions": [
+        600,
+        368
+      ],
+      "sha256": "a4b4ec33ac1b92649e9a9f8853e93708478d48f64300d761947cf60684ae0b91",
+      "text_regions": 47,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 109416
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_07.webp",
+      "master_id": 151,
+      "dimensions": [
+        750,
+        639
+      ],
+      "sha256": "8ada90283e52cc8b94afc113e89d287c7b0e82a7c316ec61b806456679515902",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 216858
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_07-600x511.webp",
+      "master_id": 151,
+      "dimensions": [
+        600,
+        511
+      ],
+      "sha256": "000a87a272dec383a13c23d909c6c3f0a5795a280ea046723e55720673174126",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 146582
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_07-300x256.webp",
+      "master_id": 151,
+      "dimensions": [
+        300,
+        256
+      ],
+      "sha256": "c266ea86de1faf2d9d03155a921236dff9a1e5edb3d443416c48fab2205a9d59",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 50796
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_08.webp",
+      "master_id": 152,
+      "dimensions": [
+        750,
+        256
+      ],
+      "sha256": "dbd8ce0885c9eb1758c946525e8a1d492fd7dc489f3e3ec45f20f3a64579c2ff",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33344
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_08-300x102.webp",
+      "master_id": 152,
+      "dimensions": [
+        300,
+        102
+      ],
+      "sha256": "23905e47e3f23846c473907923207dbba46c65cbc07e425ab5c7663f5885a9bf",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11702
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_08-600x205.webp",
+      "master_id": 152,
+      "dimensions": [
+        600,
+        205
+      ],
+      "sha256": "c56d3777a0ce1d29ea1d44800dc7cfe99545c97ecf6182326d7dc3ba60aacc40",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33604
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_09.webp",
+      "master_id": 153,
+      "dimensions": [
+        750,
+        186
+      ],
+      "sha256": "fb17c392f118501e56654d95263061aaeffb0a0c1abd210876ce619390c38a0e",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43626
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_09-600x149.webp",
+      "master_id": 153,
+      "dimensions": [
+        600,
+        149
+      ],
+      "sha256": "4fe376c2ac85592d43d5bdcaa67882a3b6d4e890083cae5bd598805207fc72f5",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 34240
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_09-300x74.webp",
+      "master_id": 153,
+      "dimensions": [
+        300,
+        74
+      ],
+      "sha256": "699b060767cdafff7d473189cdab10bd98618b6647b14542cdd2b4740e239fa3",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11946
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_10.webp",
+      "master_id": 154,
+      "dimensions": [
+        750,
+        2044
+      ],
+      "sha256": "d7987dee1407e3774f05eaf2433f341bbdaea93d21817db618170c27943ed9c0",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1340494
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_10-600x1635.webp",
+      "master_id": 154,
+      "dimensions": [
+        600,
+        1635
+      ],
+      "sha256": "64906b5c350512ce30825f2d550b2481b11469963782b192196ed5219b341341",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 857412
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_10-110x300.webp",
+      "master_id": 154,
+      "dimensions": [
+        110,
+        300
+      ],
+      "sha256": "af299fac9151be4d2b81864874dfcd2a62065942e871d2526d8e8de96f995d20",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43836
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_10-376x1024.webp",
+      "master_id": 154,
+      "dimensions": [
+        376,
+        1024
+      ],
+      "sha256": "57320b85c6dc848d63776c93510bedd2be732dd437b09fc7849d6eff6af98b19",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 383356
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_10-564x1536.webp",
+      "master_id": 154,
+      "dimensions": [
+        564,
+        1536
+      ],
+      "sha256": "c7b6e4f9bb54eeda7d9bda54243537c4d054aabd65e0af547d97562e33569ab3",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 772172
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_11.webp",
+      "master_id": 155,
+      "dimensions": [
+        750,
+        1003
+      ],
+      "sha256": "aef4301250bd73db30e53f1a3848d1f5662a5c5c76a689ffe62f63e7c27c6dcb",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 609354
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_11-224x300.webp",
+      "master_id": 155,
+      "dimensions": [
+        224,
+        300
+      ],
+      "sha256": "ff8e1ff2e0b7344f5f329ae35e8148971765893d1dc110ea93559224b98ac249",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 77624
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_11-600x802.webp",
+      "master_id": 155,
+      "dimensions": [
+        600,
+        802
+      ],
+      "sha256": "a6d444892d7669e780b62e50086a5ef9aee7b6207d43c041c9f1a532817ebe30",
+      "text_regions": 11,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 400548
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_12.webp",
+      "master_id": 156,
+      "dimensions": [
+        750,
+        1387
+      ],
+      "sha256": "ef666c96f6dffc2b11be3d079e1d1890bfb6d717cef1b771fa5bce3f71ba41a6",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 579080
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_12-600x1110.webp",
+      "master_id": 156,
+      "dimensions": [
+        600,
+        1110
+      ],
+      "sha256": "6574f7112a052939fb7950a9a9f97606ba2d94a121d317fcaa4e721cacccbcbe",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 385522
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_12-554x1024.webp",
+      "master_id": 156,
+      "dimensions": [
+        554,
+        1024
+      ],
+      "sha256": "148a6782fabf14b3ba88fd053a11bcbb6ffe37e1ef8b31935b5e5c845f3e7d01",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 340404
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-5_12-162x300.webp",
+      "master_id": 156,
+      "dimensions": [
+        162,
+        300
+      ],
+      "sha256": "71efbfacdce6911b0bc02f76e511121c0012a155984fa30685a21e41a93a9ebd",
+      "text_regions": 26,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 47108
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_01.webp",
+      "master_id": 157,
+      "dimensions": [
+        750,
+        1086
+      ],
+      "sha256": "31ed1cfd0e488c69839f1f443c28e379554ac91f60934fb050f09a5184631f9f",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 650838
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_01-707x1024.webp",
+      "master_id": 157,
+      "dimensions": [
+        707,
+        1024
+      ],
+      "sha256": "7d026cf96bd765817e8c340e3be7c59fb888bcf481c165f1765804b97e357ae0",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 589330
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_01-207x300.webp",
+      "master_id": 157,
+      "dimensions": [
+        207,
+        300
+      ],
+      "sha256": "4a03555048e5c50c77330e957eac7490db786b35ec10efeb1faa8009f64bd29d",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 72368
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_01-600x869.webp",
+      "master_id": 157,
+      "dimensions": [
+        600,
+        869
+      ],
+      "sha256": "e9cea06609b645342256f7bec2b3bb8f50f54bd3123b398f2b371d591221e23e",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 441116
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_02.webp",
+      "master_id": 158,
+      "dimensions": [
+        750,
+        1973
+      ],
+      "sha256": "bc673c600c90243ab2c3933234ec122468380a77c59f26cc208c0f63018d64ff",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 870398
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_02-600x1578.webp",
+      "master_id": 158,
+      "dimensions": [
+        600,
+        1578
+      ],
+      "sha256": "acd9e2519a430579911d7871ff75b3d2f0b4296581368bcf079e78c83f9a773f",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 573698
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_02-584x1536.webp",
+      "master_id": 158,
+      "dimensions": [
+        584,
+        1536
+      ],
+      "sha256": "d1cc2946b24df411f8f55b4818b8b04b021eb909c123a6d80350e41412d3df25",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 550426
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_02-389x1024.webp",
+      "master_id": 158,
+      "dimensions": [
+        389,
+        1024
+      ],
+      "sha256": "e13372d972156078b83182ce7a293d092e982bb9071c21c4af8af6c56c428ce5",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 292074
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_02-114x300.webp",
+      "master_id": 158,
+      "dimensions": [
+        114,
+        300
+      ],
+      "sha256": "299e7e368e91f77b54f6731b9cc827935efe08dc18c4ae0c6b90c282999e81eb",
+      "text_regions": 18,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 38246
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_03.webp",
+      "master_id": 159,
+      "dimensions": [
+        750,
+        84
+      ],
+      "sha256": "d5e240b0003dc6c1950b4c2d8dcbb9b7f7d561eaaadae4ec94bb21c66eadc368",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 14168
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_03-300x34.webp",
+      "master_id": 159,
+      "dimensions": [
+        300,
+        34
+      ],
+      "sha256": "37f75bae711ff37f3c1d17791d8d3455167fbd9b6660a60ef88ede18999f1e5b",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 6444
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_03-600x67.webp",
+      "master_id": 159,
+      "dimensions": [
+        600,
+        67
+      ],
+      "sha256": "5905dd47ab36ed997cefbc41db4120827281bf33545c10f273e2ccc046fee1db",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13684
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_04.webp",
+      "master_id": 160,
+      "dimensions": [
+        750,
+        142
+      ],
+      "sha256": "1527b4adf800d02b2118ee15bef8aec7ef7043810bb41e0c61068eecdd8340c3",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16474
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_04-300x57.webp",
+      "master_id": 160,
+      "dimensions": [
+        300,
+        57
+      ],
+      "sha256": "115c393dab965426db6707d8468d30d2d4873cf77c1aac195bdb9c770741c220",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7304
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_04-600x114.webp",
+      "master_id": 160,
+      "dimensions": [
+        600,
+        114
+      ],
+      "sha256": "496041e8b19a79efd69fb71337d8da9afd21e74c2e67deabd4f618023cc04e75",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 22820
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05.webp",
+      "master_id": 161,
+      "dimensions": [
+        750,
+        2065
+      ],
+      "sha256": "1f1c0b08e9d2d8645adc12377920621e034382dfbf2cc0c8656773d394a9ea9b",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1412428
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05-744x2048.webp",
+      "master_id": 161,
+      "dimensions": [
+        744,
+        2048
+      ],
+      "sha256": "34dd0b4c72631ceb7159020986b93c7ba4ba2c66bf2d3be638c40e650232d2ae",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1236090
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05-558x1536.webp",
+      "master_id": 161,
+      "dimensions": [
+        558,
+        1536
+      ],
+      "sha256": "d76f62883a0677259c4048f5f4fd3d367affed36ec217418fdfea828154496f0",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 734974
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05-372x1024.webp",
+      "master_id": 161,
+      "dimensions": [
+        372,
+        1024
+      ],
+      "sha256": "e45755e275baf68ce1349d44b2519bfe9a8d60fee7c0a16a4376aa7e3e44b0b3",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 350244
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05-109x300.webp",
+      "master_id": 161,
+      "dimensions": [
+        109,
+        300
+      ],
+      "sha256": "c98a5372258d5a3dbe2c285947d45ea75a42647c19d6264a30d89a2bc10f10f9",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 38452
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_05-600x1652.webp",
+      "master_id": 161,
+      "dimensions": [
+        600,
+        1652
+      ],
+      "sha256": "b0ed13188d53913909097d1cc5faa440b404aa0cab1bb27dbba5b674546f1def",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 833960
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_06.webp",
+      "master_id": 162,
+      "dimensions": [
+        750,
+        905
+      ],
+      "sha256": "5a59d2eed3f5ed866007d6bbb83b1692736e9ac65c61e63381a9c7e088adca62",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 107922
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_06-249x300.webp",
+      "master_id": 162,
+      "dimensions": [
+        249,
+        300
+      ],
+      "sha256": "e09d492515b91e64d6f8ea4958c9a2a8f0d89c958458918c90ba489e16b998d9",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 27920
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_06-600x724.webp",
+      "master_id": 162,
+      "dimensions": [
+        600,
+        724
+      ],
+      "sha256": "34d2e703fdaf98fa569b55fa34cc0aea0da7b127ef6676556c454d6854e2ba8c",
+      "text_regions": 35,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 106792
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_07.webp",
+      "master_id": 163,
+      "dimensions": [
+        750,
+        663
+      ],
+      "sha256": "6435f021a7c6550fb245910ef02f126f198f2d9630636d71282c16f70255a078",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 243708
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_07-300x265.webp",
+      "master_id": 163,
+      "dimensions": [
+        300,
+        265
+      ],
+      "sha256": "54565284826dc8ae0f7960d38c3b6b80c3d607e505fa6637db828061b22cf53c",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 51684
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_07-600x530.webp",
+      "master_id": 163,
+      "dimensions": [
+        600,
+        530
+      ],
+      "sha256": "5e2fb7f0b938b6cac0496d3eb748840437886c27d00906a9ae8ab0e02b9e4894",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 162822
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_08.webp",
+      "master_id": 164,
+      "dimensions": [
+        750,
+        392
+      ],
+      "sha256": "92af9421759df6d8785419a6cff4a758d7e0499af5158603c557eae26bc19f23",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 75560
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_08-300x157.webp",
+      "master_id": 164,
+      "dimensions": [
+        300,
+        157
+      ],
+      "sha256": "fa5aba9b6d4596a5201fd1ceefa9e50be05035de4bd12ffcf7ed2044e9234353",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 24616
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_08-600x314.webp",
+      "master_id": 164,
+      "dimensions": [
+        600,
+        314
+      ],
+      "sha256": "55318f387f781122318bc875388091f487d5f8b70cdec44a7cbb99d6c711610b",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 65632
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_09.webp",
+      "master_id": 165,
+      "dimensions": [
+        750,
+        1951
+      ],
+      "sha256": "29269df5b07efeba9f6c96da274375f6f7058e81ac08a9064bd68078920a0f56",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1263952
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_09-394x1024.webp",
+      "master_id": 165,
+      "dimensions": [
+        394,
+        1024
+      ],
+      "sha256": "14d94d43a967622d5d977bcb12ebaddd48acbd2c47ecb13f1686880b7b3830f4",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 388608
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_09-600x1561.webp",
+      "master_id": 165,
+      "dimensions": [
+        600,
+        1561
+      ],
+      "sha256": "f61dc473b66d1810e1cfcb510b2e6f800609e9ee2f3c3e851e5ef4100cd28dbe",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 796864
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_09-590x1536.webp",
+      "master_id": 165,
+      "dimensions": [
+        590,
+        1536
+      ],
+      "sha256": "09541d5370f1eea9bf6d2bff0baed818e7fa5f3406d77c5bc434d4091c991f03",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 782406
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_09-115x300.webp",
+      "master_id": 165,
+      "dimensions": [
+        115,
+        300
+      ],
+      "sha256": "21c6954e3011fd28bf467bbfa1941d8a5b318f8301b27b49f18f9bdfe757a44d",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43312
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_11.webp",
+      "master_id": 166,
+      "dimensions": [
+        750,
+        541
+      ],
+      "sha256": "c2aee6444db9cc1aa430937d6f5311add4acf9083f7b9e1742a6d346fff7af10",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 175100
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_11-600x433.webp",
+      "master_id": 166,
+      "dimensions": [
+        600,
+        433
+      ],
+      "sha256": "c13b1075aa3b7aa7c485e15dd0aa91a0e2ba35607ebd3d38e991ec0ea5afc362",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 122856
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_11-300x216.webp",
+      "master_id": 166,
+      "dimensions": [
+        300,
+        216
+      ],
+      "sha256": "40e1ffc90306f8f19142cb438f9c4159dbfe6ae80198cca5c1e89e556b5b8c6c",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 40950
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12.webp",
+      "master_id": 167,
+      "dimensions": [
+        750,
+        2392
+      ],
+      "sha256": "5b9cf3fb34f3bb71f4e5c6d87d908bd09c40bef56dbb2d57eb69902dc2be5e70",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1085362
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12-600x1914.webp",
+      "master_id": 167,
+      "dimensions": [
+        600,
+        1914
+      ],
+      "sha256": "c455d6f73a24a201150bc3ea5a15a2dd159a2fd4b2da066bd24ee542eac581de",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 731468
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12-321x1024.webp",
+      "master_id": 167,
+      "dimensions": [
+        321,
+        1024
+      ],
+      "sha256": "edd08c72b56da1f267ffb7fd239283ab5305aa2e4de56e4e992f13a32f6fd395",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 264098
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12-94x300.webp",
+      "master_id": 167,
+      "dimensions": [
+        94,
+        300
+      ],
+      "sha256": "164959f2cf7770bcf671c08da0f760b69db33dea43b88a18bf7a30502d8b53e9",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33892
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12-482x1536.webp",
+      "master_id": 167,
+      "dimensions": [
+        482,
+        1536
+      ],
+      "sha256": "85a0acfee41b7d192c97a5657dc6856860ef2dd2e7c843a39625e32547a7cd1e",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 512624
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-6_12-642x2048.webp",
+      "master_id": 167,
+      "dimensions": [
+        642,
+        2048
+      ],
+      "sha256": "721aa049ed72ec98472c3946977be66cc0c9deda457da7dc9e11bf4ad21d20c7",
+      "text_regions": 38,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 817982
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_01.webp",
+      "master_id": 168,
+      "dimensions": [
+        750,
+        269
+      ],
+      "sha256": "c8d12cf2463850de4c8f38f6ee77813afe5d0521b8e4e004c9fb1b75b6ddb2a2",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 34242
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_01-300x108.webp",
+      "master_id": 168,
+      "dimensions": [
+        300,
+        108
+      ],
+      "sha256": "5d69e1c2316d7144e9c368a6c37a322ff9706fb8f5f461ead895619f5ba766ca",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18182
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_01-600x215.webp",
+      "master_id": 168,
+      "dimensions": [
+        600,
+        215
+      ],
+      "sha256": "49fb5d264f5b589694753673e71e858c3f6732f0ede7febc30fbf2e97adad986",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 48314
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_02.webp",
+      "master_id": 169,
+      "dimensions": [
+        750,
+        587
+      ],
+      "sha256": "6e58a9b14491c9ddd30dc3e3fa354c4092737a9cb519dc52b349c585ea243db7",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 506520
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_02-300x235.webp",
+      "master_id": 169,
+      "dimensions": [
+        300,
+        235
+      ],
+      "sha256": "94fb02a1be4b828134fd978d4d5b5401d07174783a76520524c4060af128857a",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 87296
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_02-600x470.webp",
+      "master_id": 169,
+      "dimensions": [
+        600,
+        470
+      ],
+      "sha256": "7134c04f84a1bdc5ab51de55a04e0a10b973327904149056eb9b7a990afcf86e",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 314612
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_03.webp",
+      "master_id": 170,
+      "dimensions": [
+        750,
+        225
+      ],
+      "sha256": "4dedb5eaa84e123bd0c12c3767aebec70cac0bcc996c6203445bf6144a080a17",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 20704
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_03-300x90.webp",
+      "master_id": 170,
+      "dimensions": [
+        300,
+        90
+      ],
+      "sha256": "c0907cb22dae211d81bd0bf9e49c80e2765762b17fb10ec03786eb30ee0b1e19",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11470
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_03-600x180.webp",
+      "master_id": 170,
+      "dimensions": [
+        600,
+        180
+      ],
+      "sha256": "28d654e1767c82f9af28334f69e598d0ab30e3615fcb2d4d4cbfd94f6eff73d3",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 27280
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_04.webp",
+      "master_id": 171,
+      "dimensions": [
+        750,
+        749
+      ],
+      "sha256": "496a726eff9165eca56641eb66b946d1e686931b5cd0dd85f8cf4923d7ffa3a9",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 266658
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_04-300x300.webp",
+      "master_id": 171,
+      "dimensions": [
+        300,
+        300
+      ],
+      "sha256": "62c5beadc61b295990e8b621176269e5b43a7ec2f0f5f116afe671f96903cd26",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 56920
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_04-100x100.webp",
+      "master_id": 171,
+      "dimensions": [
+        100,
+        100
+      ],
+      "sha256": "845d725535850f0f8f91b27504f942721c76be261a08e9e5c7245da07f7b66d5",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 10362
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_04-600x599.webp",
+      "master_id": 171,
+      "dimensions": [
+        600,
+        599
+      ],
+      "sha256": "40b454cea91a40705ee19c562c4b948e053d883acd76e178ded790553567cabf",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 175976
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_04-150x150.webp",
+      "master_id": 171,
+      "dimensions": [
+        150,
+        150
+      ],
+      "sha256": "37aec06561ee6d0498f0be1950ec1e0f865160f41672e62aaa8faadc48b3f7b5",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18946
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_05.webp",
+      "master_id": 172,
+      "dimensions": [
+        750,
+        1530
+      ],
+      "sha256": "f07eb2254ec79d9fbcfa13ed59286702de03c4139eccee2e6cd3f05d23b0a6f1",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 719028
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_05-502x1024.webp",
+      "master_id": 172,
+      "dimensions": [
+        502,
+        1024
+      ],
+      "sha256": "4b984688e8f51d014facc606bcdec4e2a8631b7f72d2bfb6b040adf6ddd14ffd",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 350754
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_05-147x300.webp",
+      "master_id": 172,
+      "dimensions": [
+        147,
+        300
+      ],
+      "sha256": "8203fb231d551c8f777f4254a4752b5c80100f6deeed0d0ca239acf0a61335be",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 45320
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_05-600x1224.webp",
+      "master_id": 172,
+      "dimensions": [
+        600,
+        1224
+      ],
+      "sha256": "d27ad1e84bc4b662c5a66b832d29f2fc52a51d7ca208c443f6b09105295c968c",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 474284
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_06.webp",
+      "master_id": 173,
+      "dimensions": [
+        750,
+        278
+      ],
+      "sha256": "c574bfaf18af3c8c91fbcbe3a2f73069414711bf1c70ade1d64bee5c94a713e3",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 60602
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_06-300x111.webp",
+      "master_id": 173,
+      "dimensions": [
+        300,
+        111
+      ],
+      "sha256": "6eb14d89ef709c57d6f0ac9dd0172e9b77a76e52efb45aab30e91562f4ab04a0",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13654
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_06-600x222.webp",
+      "master_id": 173,
+      "dimensions": [
+        600,
+        222
+      ],
+      "sha256": "cf325aa91d5e0b3f243fc8094938a9241f5fb7725a5f0c799c21fe0445c43117",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 48822
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_07.webp",
+      "master_id": 174,
+      "dimensions": [
+        750,
+        1779
+      ],
+      "sha256": "e9a55a1662e24c77f3062a8cedd4154d9887b5653d63ccc7bd6a539bb9ff8803",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 865590
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_07-648x1536.webp",
+      "master_id": 174,
+      "dimensions": [
+        648,
+        1536
+      ],
+      "sha256": "7b89be5d66f95d7668a2e71c85176af5c37ee7049654f1b68adc48d26f34272d",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 633126
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_07-600x1423.webp",
+      "master_id": 174,
+      "dimensions": [
+        600,
+        1423
+      ],
+      "sha256": "5d3553f2aff3633abbc2707eeb2765490f9b6ad37afd284fa240ef37d122febd",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 558392
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_07-126x300.webp",
+      "master_id": 174,
+      "dimensions": [
+        126,
+        300
+      ],
+      "sha256": "6870c5e3bc975b993a30a367702255256f17ed20c103ce10a13db9c075d86e95",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41298
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_07-432x1024.webp",
+      "master_id": 174,
+      "dimensions": [
+        432,
+        1024
+      ],
+      "sha256": "437ef1445b456d1570279cf182c528e311adf20c67ce11b3970a2c4d58fa4ccd",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 326154
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_08.webp",
+      "master_id": 175,
+      "dimensions": [
+        750,
+        282
+      ],
+      "sha256": "59010fe5d4d26987f8a495039a0f5b516f8b9da393299c5ac28ba9f4d04dc9d2",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 57796
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_08-600x226.webp",
+      "master_id": 175,
+      "dimensions": [
+        600,
+        226
+      ],
+      "sha256": "3fe23305c6c5d6e5240f722707df80ed0d881c6c2d97a15b5a805142a8e16ec1",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 46972
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_08-300x113.webp",
+      "master_id": 175,
+      "dimensions": [
+        300,
+        113
+      ],
+      "sha256": "f320c0e9f825441bcbe1015733a87c098ca0c697eec166fcd1607ee8def33693",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13118
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_09.webp",
+      "master_id": 176,
+      "dimensions": [
+        750,
+        1775
+      ],
+      "sha256": "1138ec803dae97c3b394ac21892c17cbfee41e435a5b654bff8deb73582ab3a3",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 891324
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_09-649x1536.webp",
+      "master_id": 176,
+      "dimensions": [
+        649,
+        1536
+      ],
+      "sha256": "4396493c2af11d6f95bd0a1919907b8fe4de63ec47011eeccfbea6b6ec058dce",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 656546
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_09-600x1420.webp",
+      "master_id": 176,
+      "dimensions": [
+        600,
+        1420
+      ],
+      "sha256": "0571bd1cdc172e3fbfbda232ae4b47819885a1e3ef2b3c5e18ea87a8ffb87fdf",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 575940
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_09-433x1024.webp",
+      "master_id": 176,
+      "dimensions": [
+        433,
+        1024
+      ],
+      "sha256": "1b24613239a3e740b6a9cfe6f009edf902f097e5da6c396b6919bb8b90745783",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 334136
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_09-127x300.webp",
+      "master_id": 176,
+      "dimensions": [
+        127,
+        300
+      ],
+      "sha256": "90afa122b7c185c3e045fec1e2368fa6ed48bdda97438f3b587c94d4b10b38d5",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42688
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_10.webp",
+      "master_id": 177,
+      "dimensions": [
+        750,
+        282
+      ],
+      "sha256": "3abe96474a99463b1222e10799039597658871c570d95b28be137223cb611468",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 61712
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_10-300x113.webp",
+      "master_id": 177,
+      "dimensions": [
+        300,
+        113
+      ],
+      "sha256": "6a81986332681c1db53cbc170a7a98441da5efdc0a9c43c242eae800a4be3d8e",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13910
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_10-600x226.webp",
+      "master_id": 177,
+      "dimensions": [
+        600,
+        226
+      ],
+      "sha256": "0522ea2b62fa1d2ef5e5d0d6cab3f79d3139df3f0162d4b8f5cd0fb568d3d18d",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 47566
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_11.webp",
+      "master_id": 178,
+      "dimensions": [
+        750,
+        1753
+      ],
+      "sha256": "3653e51330dc22c1665df807a520f15c068e3a495e6a0cf7a43ce43eff588b8e",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 853596
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_11-438x1024.webp",
+      "master_id": 178,
+      "dimensions": [
+        438,
+        1024
+      ],
+      "sha256": "2e15e86fb76a1b01457a73090331e472c0828d836fec623a0638876c0ac184bd",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 331742
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_11-128x300.webp",
+      "master_id": 178,
+      "dimensions": [
+        128,
+        300
+      ],
+      "sha256": "974cd32f55b82179f255499cae7317bc5f2575b2e9ef13ed366c950fcc3aabe8",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 42970
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_11-600x1402.webp",
+      "master_id": 178,
+      "dimensions": [
+        600,
+        1402
+      ],
+      "sha256": "e0ffd22e2d0cd896a41ce8ac0ce0423ccbe118f27f896f9ee68b5644cc871a21",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 552898
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_11-657x1536.webp",
+      "master_id": 178,
+      "dimensions": [
+        657,
+        1536
+      ],
+      "sha256": "8de82dada7013964e0cdbb9061d124ef5633f48685bd93d60d249e44821bbd5e",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 635118
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_12.webp",
+      "master_id": 179,
+      "dimensions": [
+        750,
+        282
+      ],
+      "sha256": "ea40544b413449f28618816ada4b9c5154bc335e86a15c09ed5caae552e93917",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 62238
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_12-600x226.webp",
+      "master_id": 179,
+      "dimensions": [
+        600,
+        226
+      ],
+      "sha256": "cffa6ec1493e6fc1d9adba5a18c1e3f90f553eaff79c6dc204ab7d2d88ed05a6",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 48630
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_12-300x113.webp",
+      "master_id": 179,
+      "dimensions": [
+        300,
+        113
+      ],
+      "sha256": "c7f64b2cdbb5d4191845beb6e84ecfcea153d77ccf62b03efc57c3a907913b49",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 14612
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_13.webp",
+      "master_id": 180,
+      "dimensions": [
+        750,
+        1724
+      ],
+      "sha256": "8f48420a167ba95ea8843a60226a21861c9bcfdb46b3bed0a49f18c7a6ca9e26",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 879004
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_13-131x300.webp",
+      "master_id": 180,
+      "dimensions": [
+        131,
+        300
+      ],
+      "sha256": "db5880f00c123302c4470b888bf5f8fecf9afe57d2335973a15fe94604689a5b",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 44238
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_13-668x1536.webp",
+      "master_id": 180,
+      "dimensions": [
+        668,
+        1536
+      ],
+      "sha256": "f599f702be88eba16b0343a3c516fe8588045ef93e1731c883328eee6beb79ab",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 682500
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_13-445x1024.webp",
+      "master_id": 180,
+      "dimensions": [
+        445,
+        1024
+      ],
+      "sha256": "733cd935c4fdc78b78f02e19698e427d403c83ed4dda45ed2b63c156ba1abaa6",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 350170
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_13-600x1379.webp",
+      "master_id": 180,
+      "dimensions": [
+        600,
+        1379
+      ],
+      "sha256": "a205f021bcc9b4cdd1f9e68c10125719ce336e1b37bdcb1e0c05c3f72331a6ff",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 571726
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_14.webp",
+      "master_id": 181,
+      "dimensions": [
+        750,
+        272
+      ],
+      "sha256": "7964a93c507fb1029a7e938e6d97c1f76c7eed6dc77081d1ef0e3057370f84de",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 58680
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_14-300x109.webp",
+      "master_id": 181,
+      "dimensions": [
+        300,
+        109
+      ],
+      "sha256": "4f4426e948f3ef994bc2b81ccaf6dcebac00c6353fe3003bb04fe0b29940cbaf",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 13334
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_14-600x218.webp",
+      "master_id": 181,
+      "dimensions": [
+        600,
+        218
+      ],
+      "sha256": "2d03ebf15a53a6662df0919ad6b17946ede5b4f1a83c35d9168558bbde739d76",
+      "text_regions": 9,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 48076
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_15-1.webp",
+      "master_id": 182,
+      "dimensions": [
+        750,
+        845
+      ],
+      "sha256": "beb5e3d2a0331390bde4354b1ba81af777bddf58eb75622bd4335b3fe5a1d875",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 333472
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_15-1-600x676.webp",
+      "master_id": 182,
+      "dimensions": [
+        600,
+        676
+      ],
+      "sha256": "fcf1f5eadddc012547fe7cdfec81da72135e4cb36653952671f38f20b86f898e",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 223488
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_15-1-266x300.webp",
+      "master_id": 182,
+      "dimensions": [
+        266,
+        300
+      ],
+      "sha256": "1bacf9e5edc08a6efa7068b0d3ac9dee2e7c3643ba99836d51f486cb84dd533c",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 62590
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_16.webp",
+      "master_id": 184,
+      "dimensions": [
+        750,
+        639
+      ],
+      "sha256": "20c8de7ceff30d7ee3aed6bef40307411bd64dd79adf5a1455f48bc819941182",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 206798
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_16-600x511.webp",
+      "master_id": 184,
+      "dimensions": [
+        600,
+        511
+      ],
+      "sha256": "47d114add23643cb6b2ae2d9ca6dc3c0c6a9f22fcbd06bc21cd3f7dc013927fa",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 139738
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_16-300x256.webp",
+      "master_id": 184,
+      "dimensions": [
+        300,
+        256
+      ],
+      "sha256": "83368124b801f3afde8be15a14ac698154d831f0d890d8f86c59c004ca519332",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 47230
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_17.webp",
+      "master_id": 185,
+      "dimensions": [
+        750,
+        240
+      ],
+      "sha256": "174f557c01a3330b04435302f211714e137b664c3fd2df63526aebf4dec96716",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33010
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_17-600x192.webp",
+      "master_id": 185,
+      "dimensions": [
+        600,
+        192
+      ],
+      "sha256": "b1dcd1a8c71cddb39c483964c710dd57afe1c53f37442c2f74583c700d9a2fce",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33276
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_17-300x96.webp",
+      "master_id": 185,
+      "dimensions": [
+        300,
+        96
+      ],
+      "sha256": "e675a732dde42a585c2bd855750ebfeab62afe08cd8490b10ba7d9f0ee86abdb",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 11436
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_18.webp",
+      "master_id": 186,
+      "dimensions": [
+        750,
+        174
+      ],
+      "sha256": "73a348857f53ebad29c8b5fc5e370a73db07266bb17d0c38899ec0dc46aec2f7",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 46192
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_18-300x70.webp",
+      "master_id": 186,
+      "dimensions": [
+        300,
+        70
+      ],
+      "sha256": "f1add7b7498667513b312effe6c6280220b80fd7209004eebaf38bfbe24a2c2b",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 12246
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_18-600x139.webp",
+      "master_id": 186,
+      "dimensions": [
+        600,
+        139
+      ],
+      "sha256": "c8643934e957902f91cc5ee1c79fd36a54ee6247c7dd16f148271d4bd004ddf3",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 36218
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_19.webp",
+      "master_id": 187,
+      "dimensions": [
+        750,
+        792
+      ],
+      "sha256": "9cf59c0522b72585df2c9e1e3ade0790b42936825eb139d1dde74d5af2bd21cc",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 325412
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_19-284x300.webp",
+      "master_id": 187,
+      "dimensions": [
+        284,
+        300
+      ],
+      "sha256": "d9d8370f05a2ea323f0c1e093ada3169f151fb9e43242d6066f25f81be689b88",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 70284
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_19-600x634.webp",
+      "master_id": 187,
+      "dimensions": [
+        600,
+        634
+      ],
+      "sha256": "4f174db4776afbac359e9f28968efdae1fd1cf27eb19e36958f99caf0ba3566a",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 226574
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_20.webp",
+      "master_id": 188,
+      "dimensions": [
+        750,
+        540
+      ],
+      "sha256": "bbfc730ee0de57c2df2637c3b9fdbec3478495c6172921e176e89244723b6a5c",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 159046
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_20-600x432.webp",
+      "master_id": 188,
+      "dimensions": [
+        600,
+        432
+      ],
+      "sha256": "a4575a9bc02af50fe7114c651777079b644d78a0171ab69e05f42e66bcec3b02",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 121588
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_20-300x216.webp",
+      "master_id": 188,
+      "dimensions": [
+        300,
+        216
+      ],
+      "sha256": "0c0d919e81ca9023bca94d47fd8453fd0c6bfc0517e6df0dd05a8fa9cc43e637",
+      "text_regions": 6,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 41710
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_21.webp",
+      "master_id": 189,
+      "dimensions": [
+        750,
+        561
+      ],
+      "sha256": "72444003b3df4e74b0afeaaa03fe7e9a5f00a494068f3b2b061ca59d644329eb",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 342024
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_21-300x224.webp",
+      "master_id": 189,
+      "dimensions": [
+        300,
+        224
+      ],
+      "sha256": "3d18d5864b8bf87c540d978eb48035dfe7eef854c7119a2717fd5e99bc20e63e",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 69702
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_21-600x449.webp",
+      "master_id": 189,
+      "dimensions": [
+        600,
+        449
+      ],
+      "sha256": "82c99623a352ff12a58e9045fcb29efdd90cd6348bfd6e9bf3210650ca61fd95",
+      "text_regions": 2,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 221390
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_22.webp",
+      "master_id": 190,
+      "dimensions": [
+        750,
+        1902
+      ],
+      "sha256": "a85ec39380156cc25b76ba6ffe27195777dc512506d2ef52d6e702f4269adc23",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 745780
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_22-600x1522.webp",
+      "master_id": 190,
+      "dimensions": [
+        600,
+        1522
+      ],
+      "sha256": "0c61ad8fa0f05f934a1b9a9b4775f2604b503359b80cd700fb1c1b438275bb71",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 498628
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_22-118x300.webp",
+      "master_id": 190,
+      "dimensions": [
+        118,
+        300
+      ],
+      "sha256": "2c89110757c17ec8edbc71d2f161e755ae11ad53348713395b1de54c785bef32",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 36146
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_22-404x1024.webp",
+      "master_id": 190,
+      "dimensions": [
+        404,
+        1024
+      ],
+      "sha256": "99afd8e1e377e9b54532fcc00ce0055a953f2a3a8380776a256782bf6e787a51",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 257174
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_22-606x1536.webp",
+      "master_id": 190,
+      "dimensions": [
+        606,
+        1536
+      ],
+      "sha256": "6dd4c2f8d7f016f7d4c10e37274bc8f6388b21ba7582a5b6fc2307db69841ccf",
+      "text_regions": 29,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 505392
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_23.webp",
+      "master_id": 191,
+      "dimensions": [
+        750,
+        827
+      ],
+      "sha256": "2a9baaf5bb181464baa85f5179ab2420ce8269559d91ed6d60666f3d3c197bd5",
+      "text_regions": 27,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 170940
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_23-272x300.webp",
+      "master_id": 191,
+      "dimensions": [
+        272,
+        300
+      ],
+      "sha256": "276906d2b3b52dfeeb7e45a9e0041c898ccb72b8732761f4aded017a6b231208",
+      "text_regions": 27,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 38790
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_23-600x662.webp",
+      "master_id": 191,
+      "dimensions": [
+        600,
+        662
+      ],
+      "sha256": "4bfa52d21d6e16dff72983a36b337a134f1906f843bc726bbb32cae0e6697301",
+      "text_regions": 27,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 131228
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_24.webp",
+      "master_id": 192,
+      "dimensions": [
+        750,
+        98
+      ],
+      "sha256": "098f4b2ba57fd993aa75113900e06b6a3f9f2e025bd1ecc2fa9fc7f4defd93b4",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16956
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_24-300x39.webp",
+      "master_id": 192,
+      "dimensions": [
+        300,
+        39
+      ],
+      "sha256": "f14bd03d68fcd72e24e82ee8f0ff0f7fc6c8fd86e0dc12f2c984b06b80661229",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 7114
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_24-600x78.webp",
+      "master_id": 192,
+      "dimensions": [
+        600,
+        78
+      ],
+      "sha256": "376a9662bb1b3214461223504574029155852f82bf206eba84381f19223e0a0b",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 14948
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_25.webp",
+      "master_id": 193,
+      "dimensions": [
+        750,
+        79
+      ],
+      "sha256": "4687ce7bad59b73dceb9d0937a47071766ca21ba79479278752c0f4f7d53a18b",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 9688
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_25-600x63.webp",
+      "master_id": 193,
+      "dimensions": [
+        600,
+        63
+      ],
+      "sha256": "bf0437ef1c46081778254ac7af8f20b4eadab3231ab528d6fbe110bc2af63233",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 8986
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_25-300x32.webp",
+      "master_id": 193,
+      "dimensions": [
+        300,
+        32
+      ],
+      "sha256": "26b0380ae7c02a67316de56e827129daa128feaca2cfaddbe08d4f4a5cbbc584",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 3038
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_26.webp",
+      "master_id": 194,
+      "dimensions": [
+        750,
+        1340
+      ],
+      "sha256": "7328e42d3ff9d7541a68fea7007c9b9fa6b5530562c17922c39e98dde08fa0b5",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 527212
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_26-573x1024.webp",
+      "master_id": 194,
+      "dimensions": [
+        573,
+        1024
+      ],
+      "sha256": "da4903b3e3ec68720d8d08985929ea6c38c71dfb0c9529fe98d7cb2c4cee788a",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 315962
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_26-600x1072.webp",
+      "master_id": 194,
+      "dimensions": [
+        600,
+        1072
+      ],
+      "sha256": "76f4ff7d268f391dd60b94b703d94e6b2e62d28aab2cf6ddd729facdae741fec",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 337620
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-7_26-168x300.webp",
+      "master_id": 194,
+      "dimensions": [
+        168,
+        300
+      ],
+      "sha256": "cfd7a551086c68f57b2a47b9cf457c540930d7e996c2f6be9f458965590546cd",
+      "text_regions": 12,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43490
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_01.webp",
+      "master_id": 195,
+      "dimensions": [
+        750,
+        278
+      ],
+      "sha256": "981da1a6cacfb8da8eb28066f8713f36437741336a319472f40c5a0a797fb0fb",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 33702
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_01-300x111.webp",
+      "master_id": 195,
+      "dimensions": [
+        300,
+        111
+      ],
+      "sha256": "6b0a0f802f7d3191dc01f5b60fe0660be1bc286d965c6b73cbc86316930ee990",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18008
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_01-600x222.webp",
+      "master_id": 195,
+      "dimensions": [
+        600,
+        222
+      ],
+      "sha256": "cc84c33074783bbbf2e0251d8918acc70af89a6d6df2a609e086935e14f65c9b",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 46952
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_02.webp",
+      "master_id": 196,
+      "dimensions": [
+        750,
+        1560
+      ],
+      "sha256": "a1f6a53c617fd87de5091cb8bb58a03fd2f337db361a131b2312c56b01c15e94",
+      "text_regions": 17,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 807830
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_02-144x300.webp",
+      "master_id": 196,
+      "dimensions": [
+        144,
+        300
+      ],
+      "sha256": "dd736070c1406b455c7170cffaccec65f9a5010389a66ff236fdaa8afc687b06",
+      "text_regions": 17,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 44480
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_02-738x1536.webp",
+      "master_id": 196,
+      "dimensions": [
+        738,
+        1536
+      ],
+      "sha256": "7e12ed010aa0228b1050cbb3096b0c97a391803a98a40357d397c7ce70bad93e",
+      "text_regions": 17,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 757094
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_02-492x1024.webp",
+      "master_id": 196,
+      "dimensions": [
+        492,
+        1024
+      ],
+      "sha256": "ff583d0996e5cb5d4ff5b33a99408cc628933a06f852f57c1820cba3091cadb7",
+      "text_regions": 17,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 367186
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_02-600x1248.webp",
+      "master_id": 196,
+      "dimensions": [
+        600,
+        1248
+      ],
+      "sha256": "7ab177c06e10265fa67141144c095d6c344348a88760c39f6ea8ceb2122388a7",
+      "text_regions": 17,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 523098
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_03.webp",
+      "master_id": 197,
+      "dimensions": [
+        750,
+        1562
+      ],
+      "sha256": "6aa705ba1187c1ada864a1517d942607e183daaf25c111a16fee39c28655d0f8",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 709150
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_03-144x300.webp",
+      "master_id": 197,
+      "dimensions": [
+        144,
+        300
+      ],
+      "sha256": "383f0e0219931c272f97c77adfc335c6025d00da1682a5d2840b78e6bdb0f2a7",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 43252
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_03-492x1024.webp",
+      "master_id": 197,
+      "dimensions": [
+        492,
+        1024
+      ],
+      "sha256": "8d8bb841f8f0d33c884452c6f80889c61a57fa9cb67bae77e0bf197695392933",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 336876
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_03-738x1536.webp",
+      "master_id": 197,
+      "dimensions": [
+        738,
+        1536
+      ],
+      "sha256": "d48649d637cfa16c4939b7ff09def742521301b08249364b5f07c46ac4b6f773",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 662084
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_03-600x1250.webp",
+      "master_id": 197,
+      "dimensions": [
+        600,
+        1250
+      ],
+      "sha256": "521ec38de255b7204278ad499b040066b5cba7de10787de689d9ecf343abeb2a",
+      "text_regions": 7,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 466436
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_04.webp",
+      "master_id": 198,
+      "dimensions": [
+        750,
+        367
+      ],
+      "sha256": "99f52be13453c4f80c15290609a1702b6916e1a6219886faa47d307d54585b67",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 61272
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_04-300x147.webp",
+      "master_id": 198,
+      "dimensions": [
+        300,
+        147
+      ],
+      "sha256": "c7012ab1b633f03294fd4eeefadeff5e9e1ea55c72b8fc7e3730cc583d458f70",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 16092
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_04-600x294.webp",
+      "master_id": 198,
+      "dimensions": [
+        600,
+        294
+      ],
+      "sha256": "17198768add952b1b1d1a5b69f2a5a7e3039c0978b63f52ebea4c8c81e340045",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 53498
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_05.webp",
+      "master_id": 199,
+      "dimensions": [
+        750,
+        1802
+      ],
+      "sha256": "8b0786a57265d770ba72ff225f765afccc77ed09d5f2769bd484bb3630263158",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1031770
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_05-125x300.webp",
+      "master_id": 199,
+      "dimensions": [
+        125,
+        300
+      ],
+      "sha256": "1b0a7aee9929e27ffe2c2e9bf545fba1288c088805c8b3a9d6eaf43b83f081c1",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 46472
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_05-426x1024.webp",
+      "master_id": 199,
+      "dimensions": [
+        426,
+        1024
+      ],
+      "sha256": "c1df9b76659cb880c564965de293221bc87911733d1fae8e5ee0f2cb02d63bec",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 368886
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_05-600x1442.webp",
+      "master_id": 199,
+      "dimensions": [
+        600,
+        1442
+      ],
+      "sha256": "90634421097a892a75a3be809a31fa08f16eac223dbc40163ae9501e90e7f0ab",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 663626
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_05-639x1536.webp",
+      "master_id": 199,
+      "dimensions": [
+        639,
+        1536
+      ],
+      "sha256": "a3ee4fc6410c212b4e670207fa03bf968921f30815016bd4e0284b4561a4ed74",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 737358
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_06.webp",
+      "master_id": 200,
+      "dimensions": [
+        750,
+        526
+      ],
+      "sha256": "c5b83163e4e4e38ed03dc9f18f5f0f9372ca4d7ea1b1485de1060c1b91d413e9",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 95754
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_06-600x421.webp",
+      "master_id": 200,
+      "dimensions": [
+        600,
+        421
+      ],
+      "sha256": "d6ed10999b6228c47b252b0c91e0d5e7f1fb2a8006f32cbe78349e8f6409e916",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 86786
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_06-300x210.webp",
+      "master_id": 200,
+      "dimensions": [
+        300,
+        210
+      ],
+      "sha256": "a45e25047601d7b70f1791d8d3fcfb6353194421bd3593d3f56e590c60dbd5a6",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 26824
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07.webp",
+      "master_id": 201,
+      "dimensions": [
+        750,
+        2100
+      ],
+      "sha256": "406291c4de9536d0f3eb2fd1cd9de2ab2992290ac9cdfa7223460d03bb09a45f",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1129574
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07-600x1680.webp",
+      "master_id": 201,
+      "dimensions": [
+        600,
+        1680
+      ],
+      "sha256": "eca1984ff731586dcffcb2cdf1dbb4d556dde1503d644d2433d7291b27c30292",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 710948
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07-549x1536.webp",
+      "master_id": 201,
+      "dimensions": [
+        549,
+        1536
+      ],
+      "sha256": "e4fc7994d58986d73f61087937f46d58e5aa1895f162d4c546c68161e235fff1",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 621152
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07-731x2048.webp",
+      "master_id": 201,
+      "dimensions": [
+        731,
+        2048
+      ],
+      "sha256": "9de31c26d76ed7eeba313df89d78d5bc593e32cfd06f3a9ec98c28ebd1980e03",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 1002834
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07-366x1024.webp",
+      "master_id": 201,
+      "dimensions": [
+        366,
+        1024
+      ],
+      "sha256": "3bafd39fcecbc24e75f3df06fdb46d6434881c53bcaa3e85ad8c87272333dd67",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 315940
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_07-107x300.webp",
+      "master_id": 201,
+      "dimensions": [
+        107,
+        300
+      ],
+      "sha256": "4e9bdd1dba06192a81abca05835b38e3729539c2e86f496fb6491baefb35aa0e",
+      "text_regions": 8,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 39674
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_08.webp",
+      "master_id": 202,
+      "dimensions": [
+        750,
+        383
+      ],
+      "sha256": "3b690892a6593c2c2c933fd6964a58c255a18f7895a470e36e4229b054e628b8",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 71212
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_08-600x306.webp",
+      "master_id": 202,
+      "dimensions": [
+        600,
+        306
+      ],
+      "sha256": "cf25ec0f67ff746781446f63d1c31578bfd73090dd9c74957d6f7f42b30f7629",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 60496
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_08-300x153.webp",
+      "master_id": 202,
+      "dimensions": [
+        300,
+        153
+      ],
+      "sha256": "c51c468462f70eddb81944ddcbaff627034b75dbfe37f156dcfe5f246e63e4cc",
+      "text_regions": 13,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 18794
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_09.webp",
+      "master_id": 203,
+      "dimensions": [
+        750,
+        686
+      ],
+      "sha256": "2db4f5387c20c639dc4d4a330cc1210c728143e2a5efea3cd289ce46918140ee",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 412600
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_09-300x274.webp",
+      "master_id": 203,
+      "dimensions": [
+        300,
+        274
+      ],
+      "sha256": "fc7aa803f41de6c32773d6c254aec8e985fd8f1b4f83046c1f727b736af31c19",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 80936
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_09-600x549.webp",
+      "master_id": 203,
+      "dimensions": [
+        600,
+        549
+      ],
+      "sha256": "e581e0cf43469361f32bbeb54faddfbd17b7bfcb3aae8513ccba4c0e317ec6a1",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 259960
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_10.webp",
+      "master_id": 204,
+      "dimensions": [
+        750,
+        757
+      ],
+      "sha256": "0f353be321618d796873be6c8fe811462790c665deeeb28669105d5fa6ba4101",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 570186
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_10-297x300.webp",
+      "master_id": 204,
+      "dimensions": [
+        297,
+        300
+      ],
+      "sha256": "c461ed7725977cef6c7cb389e41afd1927b6a296afe2eb5cc70cdbb267ad5322",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 102224
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_10-100x100.webp",
+      "master_id": 204,
+      "dimensions": [
+        100,
+        100
+      ],
+      "sha256": "9fe92eb2fec554c77eda0d86c1c36d256c2825abb57bd920df6dd7c58363f9ff",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 15454
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_10-600x606.webp",
+      "master_id": 204,
+      "dimensions": [
+        600,
+        606
+      ],
+      "sha256": "e37230bae0768363ba95592dca078266a9737e90891e61172c1bc168afc27068",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 354564
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_10-150x150.webp",
+      "master_id": 204,
+      "dimensions": [
+        150,
+        150
+      ],
+      "sha256": "8466b62618d52b3b633f94c66d9024a60adb829d8c1a0ae6f75fce12658ea264",
+      "text_regions": 1,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 31840
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_11.webp",
+      "master_id": 205,
+      "dimensions": [
+        750,
+        437
+      ],
+      "sha256": "36db0dc439b6012aac2e971a67c266ba61b1a8b1dcd352f4a38f499d9c97b667",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 82430
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_11-600x350.webp",
+      "master_id": 205,
+      "dimensions": [
+        600,
+        350
+      ],
+      "sha256": "657a63ed7bb40ef6a676825717d2e4e72274a59e0352518b158366b97ae3f760",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 69240
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_11-300x175.webp",
+      "master_id": 205,
+      "dimensions": [
+        300,
+        175
+      ],
+      "sha256": "805c89d9e2170f60b8380843499643dd0c5ad34af45c0b6c79ed09d1adb430eb",
+      "text_regions": 4,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 24486
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_12.webp",
+      "master_id": 206,
+      "dimensions": [
+        750,
+        1725
+      ],
+      "sha256": "d47f72f6707e4a1f60d65032fb074581777b13fd2396120a9e285653c19d7e60",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 802910
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_12-600x1380.webp",
+      "master_id": 206,
+      "dimensions": [
+        600,
+        1380
+      ],
+      "sha256": "2f679b95d380fb4b3a68193731c014b49397dfcb74753d71406b62d9d1f1f38d",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 544794
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_12-445x1024.webp",
+      "master_id": 206,
+      "dimensions": [
+        445,
+        1024
+      ],
+      "sha256": "1088ea921655efa1f4142484bcef62f4a02074267084ec552e5bc22e909cffd4",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 338128
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_12-130x300.webp",
+      "master_id": 206,
+      "dimensions": [
+        130,
+        300
+      ],
+      "sha256": "26a55e85882440150b6bb89046a811e3920e474af7c20c9a81fa59dc9aabec25",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 46848
+    },
+    {
+      "path": "wp-content/uploads/2026/06/启众-8_12-668x1536.webp",
+      "master_id": 206,
+      "dimensions": [
+        668,
+        1536
+      ],
+      "sha256": "89445bdc3299430edc090ef25cb70333d675c8b40770a870175c03b3fa35657a",
+      "text_regions": 20,
+      "pixels_changed_outside_text_regions": 0,
+      "bytes": 647446
+    }
+  ]
+}
