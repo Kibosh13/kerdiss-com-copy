@@ -1,8 +1,24 @@
 /* Preserve the supplied URSAR emblem's proportions in both site headers. */
 #masthead .site-logo-img .custom-logo-link img.custom-logo {
-  width: 64px;
-  max-width: 64px;
+  width: 128px;
+  max-width: 128px;
   height: auto;
+}
+@media (max-width: 921px) {
+  #masthead .site-logo-img .custom-logo-link img.custom-logo {
+    width: 96px;
+    max-width: 96px;
+  }
+  #ast-mobile-header .site-branding.ast-site-identity {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  /* Keep the enlarged logo clear of the home page's transparent-header hero. */
+  .home #content .elementor-element-9e88b79 > .e-con-inner {
+    padding-top: 112px;
+  }
 }
 .elementor img.wp-image-1195 {
   width: 128px;
