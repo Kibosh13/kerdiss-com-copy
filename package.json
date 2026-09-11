@@ -1,0 +1,24 @@
+{
+  "name": "ursar-cms",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "build": "node scripts/cms-build.mjs",
+    "start": "php -S 127.0.0.1:4311 -t cms/public cms/public/router.php",
+    "test": "python3 tests/integration.py",
+    "admin:create": "php scripts/admin.php create",
+    "backup": "php scripts/admin.php backup"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.1",
+    "lucide-react": "1.45.0",
+    "parse5": "8.0.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "vite": "8.3.0"
+  }
+}

@@ -26,6 +26,7 @@
   }).catch(() => {});
   // Avoid claiming an enquiry was sent when the original WordPress backend is unavailable.
   const showUnavailable = (form, event) => {
+    if (window.ursarSubmitEnquiry && window.ursarSubmitEnquiry(form, event)) return;
     if (!form.matches('form') || form.matches('.woocommerce-ordering,form[method="get"],form[method="GET"]')) return;
     event.preventDefault();
     event.stopImmediatePropagation();
@@ -52,6 +53,7 @@
 
 /* Original WooCommerce catalogue orders, preserved without PHP. */
 (() => {
+  if (document.getElementById('ursar-public-config')) return;
   const select = document.querySelector('select.orderby');
   const grid = document.querySelector('ul.products');
   if (!select || !grid) return;

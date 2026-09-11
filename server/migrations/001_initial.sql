@@ -1,0 +1,15 @@
+CREATE TABLE content(id TEXT PRIMARY KEY,type TEXT NOT NULL,template_id TEXT NOT NULL,draft TEXT NOT NULL,published TEXT,version INTEGER NOT NULL DEFAULT 1,archived INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL,published_at TEXT);
+CREATE TABLE users(id TEXT PRIMARY KEY,email TEXT NOT NULL UNIQUE COLLATE NOCASE,name TEXT NOT NULL,password_hash TEXT NOT NULL,role TEXT NOT NULL CHECK(role IN ('admin','editor','manager')),active INTEGER NOT NULL DEFAULT 1,created_at TEXT NOT NULL,last_login TEXT);
+CREATE TABLE sessions(id TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id) ON DELETE CASCADE,expires_at INTEGER NOT NULL,created_at TEXT NOT NULL);
+CREATE INDEX idx_sessions_user ON sessions(user_id);
+CREATE INDEX idx_sessions_expiry ON sessions(expires_at);
+CREATE TABLE revisions(id TEXT PRIMARY KEY,content_id TEXT NOT NULL REFERENCES content(id),actor TEXT NOT NULL,action TEXT NOT NULL,snapshot TEXT NOT NULL,created_at TEXT NOT NULL);
+CREATE INDEX idx_revisions_content_date ON revisions(content_id,created_at DESC);
+CREATE TABLE media(id TEXT PRIMARY KEY,url TEXT NOT NULL UNIQUE,name TEXT NOT NULL,type TEXT NOT NULL,size INTEGER NOT NULL,alt TEXT NOT NULL DEFAULT '',source TEXT NOT NULL,width INTEGER,height INTEGER,pages TEXT NOT NULL DEFAULT '[]',archived INTEGER NOT NULL DEFAULT 0,created_at TEXT NOT NULL);
+CREATE TABLE settings(id INTEGER PRIMARY KEY CHECK(id=1),value TEXT NOT NULL,version INTEGER NOT NULL DEFAULT 1);
+CREATE TABLE leads(id TEXT PRIMARY KEY,name TEXT NOT NULL,email TEXT NOT NULL,phone TEXT NOT NULL,message TEXT NOT NULL,page TEXT NOT NULL,form_name TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'new',notes TEXT NOT NULL DEFAULT '',archived INTEGER NOT NULL DEFAULT 0,created_at TEXT NOT NULL,updated_at TEXT NOT NULL);
+CREATE INDEX idx_leads_status_date ON leads(archived,status,created_at DESC);
+CREATE TABLE audit(id TEXT PRIMARY KEY,actor TEXT NOT NULL,action TEXT NOT NULL,target TEXT NOT NULL,label TEXT NOT NULL,details TEXT NOT NULL DEFAULT '{}',created_at TEXT NOT NULL);
+CREATE INDEX idx_audit_created ON audit(created_at DESC);
+CREATE TABLE rate_limits(key TEXT NOT NULL,bucket INTEGER NOT NULL,count INTEGER NOT NULL,PRIMARY KEY(key,bucket));
+CREATE TABLE redirects(route TEXT PRIMARY KEY,content_id TEXT NOT NULL REFERENCES content(id));

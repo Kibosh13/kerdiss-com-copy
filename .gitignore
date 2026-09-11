@@ -43,3 +43,10 @@ outputs/
 ._*
 .idea/
 .vscode/
+# CMS private runtime data (never part of Git or GitHub Pages)
+/data/
+.dev.vars
+*.session
+/cms/.generated/
+
+!server/migrations/*.sql
