@@ -1,4 +1,4 @@
-# Kerdiss — русская копия сайта
+# URSAR — русская копия сайта
 
 Демонстрация: https://kibosh13.github.io/kerdiss-com-copy/
 
